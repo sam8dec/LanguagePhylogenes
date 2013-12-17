@@ -1,0 +1,42 @@
+ERZYA{Ura.MORDVIN|Uralic,Mordvin@Uralic,Mordvin}
+ 2   53.00   45.50      514330   moe   myv
+1 I	mon //
+2 you	ton //
+3 we	mi5 //
+11 one	veke //
+12 two	kavto //
+18 person	%loma5 //  probably loan, cf. similar form in Kildin Saami (SW)
+19 fish	kal //
+21 dog	kiska, pine //
+22 louse	CiCav //
+23 tree	Cuvto //
+25 leaf	lopa //
+28 skin	kedy~, kisy~ke //
+30 blood	very~ //
+31 bone	lovaZa //
+34 horn	%sy~uro // probably loan, cf. similar form in Kildin Saami (SW)
+39 ear	pile //
+40 eye	sy~eLme //
+41 nose	sudo //
+43 tooth	pey //
+44 tongue	keL //
+47 knee	kumaZa //
+48 hand	kedy~ //
+51 breast	meSte //
+53 liver	makso //
+54 drink	simems //
+57 see	neyems //
+58 hear	mary~ams //
+61 die	kuloms //
+66 come	sams //
+72 sun	Cipay, Ci //
+74 star	teSte //
+75 water	vedy~ //
+77 stone	kev //
+82 fire	tol //
+85 path	ki //
+86 mountain	ine pando //
+92 night	ve //
+95 full	peSkse //
+96 new	od //
+100 name	%lem //  probably loan, cf. similar form in Kildin Saami (SW)

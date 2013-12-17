@@ -1,0 +1,42 @@
+GUJARATI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,Centralzone,Gujarati@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,Gujarati-Rajasthani,Gujaratic}
+ 1   23.00   72.00    46633190   guj   guj
+1 I	me*, hu* //
+2 you	tu* //
+3 we	apne //
+11 one	ek //
+12 two	be //
+18 person	T3n, vy~3kti //
+19 fish	maTh~li //
+21 dog	Svana, kutru* //
+22 louse	Tu //
+23 tree	gulmor, Tiku //
+25 leaf	p3tu*, pan //
+28 skin	kh~al, Tamdi //
+30 blood	rkt3, rudh~ir //
+31 bone	hadku* //
+34 horn	SiNgdu* //
+39 ear	kan //
+40 eye	n3y3n, akh~ //
+41 nose	nak //
+43 tooth	da*t //
+44 tongue	Tibh~ //
+47 knee	goth~3n, gh~u*t3n //
+48 hand	hath~ //
+51 breast	st3n //
+53 liver	y3krut //
+54 drink	pi //
+57 see	dekh~, bh~al //
+58 hear	sa*bh~3l //
+61 die	m3r //
+66 come	av //
+72 sun	sur3T, sury~3 //
+74 star	taro //
+75 water	pani //
+77 stone	p3th~ro, p3hano //
+82 fire	3gni //
+85 path	p3nth~ //
+86 mountain	p3rv3t, p3had //
+92 night	r3Tni, rat //
+95 full	t3ko3k, Tikar //
+96 new	n3vu*, nut3n //
+100 name	nam //

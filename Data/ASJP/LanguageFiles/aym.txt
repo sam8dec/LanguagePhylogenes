@@ -1,0 +1,42 @@
+CENTRAL_AYMARA{Aym.AYMARAN|Aymaran,Aymara@Aymaran,Central-SouthernAymara}
+ 3  -17.00  -69.00     2589000   aym   ayr
+1 yo	naya //
+2 tu	xuma //
+3 nosotros	nanaka, xiwasa //
+11 uno	maya //
+12 dos	ph~aya //
+18 persona	xaqe //
+19 pez	Caly~wa //
+21 perro	anu, anuqara //
+22 piojo	lap"a //
+23 arbol	qoqa //
+25 hoja	ly~aqa, laph~i //
+28 piel	xanCi lip"iCi //
+30 sangre	wila //
+31 hueso	C"aka //
+34 cuerno	wara //
+39 oreja	xinCu, Co //
+40 ojo	naira //
+41 nariz	nasa //
+43 diente	laka C"aka //
+44 lengua	lara //
+47 rodilla	qonqori //
+48 mano	amp~ara //
+51 seno	5u5u //
+53 higado	k"iuCa //
+54 beber	uma5a //
+57 ver	u5Xa5a //
+58 oir	ist"a5a //
+61 morir	xiwa5a //
+66 venir	xuta5a //
+72 sol	inti, lupi //
+74 estrella	warawara //
+75 agua	uma //
+77 piedra	qala //
+82 fuego	nina, kh~ana //
+85 camino	th~aki //
+86 cerro	koly~o, ly~u //
+92 noche	aruma //
+95 lleno	ph~oqa //
+96 nuevo	maCaqa //
+100 nombre	suti taqekunana //

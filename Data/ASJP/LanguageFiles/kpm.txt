@@ -1,0 +1,102 @@
+KAPAMPANGAN{An.NORTHERN_PHILIPPINES|Austronesian,Malayo-Polynesian,Philippine,CentralLuzon,Pampangan@Austronesian,NuclearAustronesian,Malayo-Polynesian,CentralLuzon}
+ 1   15.33  120.50     1905430   kpm   pam
+1 I	aku //
+2 you	ika, ikayu //
+3 we	itamu, ikamu //
+4 this	ini //
+5 that	ian, ita //
+6 who	ninu //
+7 what	naN, nanaN //
+8 not	ali7 //
+9 all	laganus //
+10 many	XXX //
+11 one	metuN //
+12 two	adwa7 //
+13 big	maragul //
+14 long	makaba //
+15 small	malati //
+16 woman	babai //
+17 man	lalaki //
+18 person	tau //
+19 fish	asan //
+20 bird	ayup //
+21 dog	asu //
+22 louse	kutu //
+23 tree	XXX //
+24 seed	XXX //
+25 leaf	buluN //
+26 root	emut //
+27 bark	XXX //
+28 skin	balat //
+29 flesh	katawan //
+30 blood	daya7
+31 bone	binyas //
+32 grease	taba7 //
+33 egg	ebun //
+34 horn	XXX //
+35 tail	iki7 //
+36 feather	bagyus, bulbul //
+37 hair	bw~ak //
+38 head	buntuk //
+39 ear	balugbug //
+40 eye	mata //
+41 nose	aruN //
+42 mouth	asbuk //
+43 tooth	ipan //
+44 tongue	dila7 //
+45 claw	XXX //
+46 foot	bitis //
+47 knee	XXX //
+48 hand	gamat //
+49 belly	San //
+50 neck	batal //
+51 breasts	susu //
+52 heart	XXX //
+53 liver	ate //
+54 drink	inum //
+55 eat	maNam //
+56 bite	ket //
+57 see	ikit //
+58 hear	damdaman //
+59 know	balwan //
+60 sleep	tudtud //
+61 die	mate //
+62 kill	pate //
+63 swim	kawe //
+64 fly	sulapo //
+65 walk	lakad //
+66 come	dataN //
+67 lie	kera //
+68 sit	lukluk //
+69 stand	tikdo7 //
+70 give	XXX //
+71 say	sabi //
+72 sun	XXX //
+73 moon	bulan //
+74 star	batwin //
+75 water	danum //
+76 rain	uran //
+77 stone	batu //
+78 sand	balas //
+79 earth	gabun //
+80 cloud	lula7 //
+81 smoke	asu, asuk //
+82 fire	api7 //
+83 ash	abu //
+84 burn	silab //
+85 path	dalan //
+86 mountain	XXX //
+87 red	lutu7
+88 green	berde
+89 yellow	dilo //
+90 white	maputi7 //
+91 black	matuliN //
+92 night	beyi //
+93 hot	mapali7 //
+94 cold	marimla //
+95 full	XXX //
+96 new	bayu //
+97 good	makayap //
+98 round	XXX //
+99 dry	maliNi7 //
+100 name	lagyu7 //

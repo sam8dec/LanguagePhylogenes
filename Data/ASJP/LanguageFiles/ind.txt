@@ -1,0 +1,102 @@
+INDONESIAN{An.MALAYIC|Austronesian,Malayo-Polynesian,Malayo-Chamic,Malayic,Malay@Austronesian,NuclearAustronesian,Malayo-Polynesian,Malayo-Sumbawan,NorthandEastMalayo-Sumbawan,Malayic,NuclearMalayic,IndonesianArchipelagoMalay}
+ 1    0.00  106.00    23200480   ind   ind
+1 I	saya, aku //
+2 you	saudara, anda //
+3 we	kami, kita //
+4 this	ini //
+5 that	itu //
+6 who	siapa //
+7 what	apa //
+8 not	bukan, tidak //
+9 all	semua //
+10 many	banyak //
+11 one	satu //
+12 two	dua //
+13 big	besar //
+14 long	panZaN //
+15 small	keCil //
+16 woman	perempuan, wanita //
+17 man	pria //
+18 person	oraN //
+19 fish	ikan //
+20 bird	buruN //
+21 dog	anZiN //
+22 louse	kutu //
+23 tree	pohon //
+24 seed	biZi //
+25 leaf	duan //
+26 root	akar //
+27 bark	kulit kayu //
+28 skin	kulit //
+29 flesh	dagiN //
+30 blood	darah //
+31 bone	tulaN //
+32 grease	lemak //
+33 egg	telur //
+34 horn	tanduk //
+35 tail	buntut //
+36 feather	bulu //
+37 hair	rambut //
+38 head	kepala //
+39 ear	teliNa //
+40 eye	mata //
+41 nose	hiduN //
+42 mouth	mulut //
+43 tooth	gigi //
+44 tongue	lidah //
+45 claw	kuku //
+46 foot	kaki //
+47 knee	lutut //
+48 hand	taNan //
+49 belly	perut //
+50 neck	leher //
+51 breasts	buah dada, susu //
+52 heart	ZantuN //
+53 liver	hati //
+54 drink	minum //
+55 eat	makan //
+56 bite	gigit //
+57 see	lihat //
+58 hear	mendeNar //
+59 know	tahu //
+60 sleep	tidur //
+61 die	mati //
+62 kill	bunuh //
+63 swim	berenaN //
+64 fly	terbaN //
+65 walk	Zalan //
+66 come	dataN //
+67 lie	berbariN //
+68 sit	duduk //
+69 stand	berdiri //
+70 give	beri //
+71 say	kata //
+72 sun	mata hari, surya //
+73 moon	bulan //
+74 star	bintaN //
+75 water	air //
+76 rain	huZan //
+77 stone	batu //
+78 sand	pasir //
+79 earth	bumi, darat //
+80 cloud	awan //
+81 smoke	asap //
+82 fire	api //
+83 ash	abu //
+84 burn	bakar //
+85 path	Zalan //
+86 mountain	gunuN //
+87 red	merah //
+88 green	hiZau //
+89 yellow	kuniN //
+90 white	putih //
+91 black	hitam //
+92 night	malam //
+93 hot	haNat, panas //
+94 cold	diNin //
+95 full	penuh //
+96 new	baru //
+97 good	baik //
+98 round	bulat //
+99 dry	keriN //
+100 name	%nama // loan from early Malay/Sanskrit

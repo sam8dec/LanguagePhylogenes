@@ -1,0 +1,42 @@
+PORTUGUESE{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,WestIberian,Portuguese-Galician@Indo-European,Italic,Latino-Faliscan,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance,WestIbero-Romance,GalicianRomance,Macro-Portuguese,Brazil-PortugalPortuguese}
+ 1   39.00   -8.00   202468100   por   por
+1 I	eu //
+2 you	tu //
+3 we	noS //
+11 one	u* //
+12 two	doiS //
+18 person	pErzon //
+19 fish	paiS3 //
+21 dog	ka*u* //
+22 louse	pioLu //
+23 tree	Ervur3 //
+25 leaf	foLa //
+28 skin	pEl3 //
+30 blood	sa*x3 //
+31 bone	osu //
+34 horn	Sifr3 //
+39 ear	oraLa //
+40 eye	oLu //
+41 nose	nariS //
+43 tooth	de*t3 //
+44 tongue	li*gua //
+47 knee	ZuaLu //
+48 hand	ma*u //
+51 breasts	saiuS // (pl)
+53 liver	fixa8u //
+54 drink	b3b // (stem)
+57 see	ver //
+58 hear	ov // (stem)
+61 die	mur // (stem)
+66 come	vir //
+72 sun	sol //
+74 star	3Strela //
+75 water	Egw~a //
+77 stone	pEdra //
+82 fire	fogu //
+85 path	se*da //
+86 mountain	mo*ta5a //
+92 night	noyt3 //
+95 full	Seyu //
+96 new	novu //
+100 name	nom3 //

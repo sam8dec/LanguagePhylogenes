@@ -1,0 +1,102 @@
+ZULU{NC.BANTOID|Niger-Congo,Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,Southern,NarrowBantu,Central,S,Nguni(S.406)@Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,SouthernBantoid,NarrowBantu,EastBantu,SouthernBantu-Makua,Nguni-Tsonga,Nguni(S.40),Zunda}
+ 1  -30.00   30.00    10349100   zno   zul
+1 I	XXX //
+2 you	wena, u //
+3 we	th~ina, si //
+4 this	XXX //
+5 that	lowo, leyo //
+6 who	XXX //
+7 what	ni //
+8 not	XXX //
+9 all	ke, kana //
+10 many	niNi //
+11 one	5e //
+12 two	bili //
+13 big	kh~ulu, dL~ondL~obele //
+14 long	de, banz~i //
+15 small	!olo //
+16 woman	fazi, na //
+17 man	nt~u, doda //
+18 person	nt~u //
+19 fish	Lanz~i //
+20 bird	5oni //
+21 dog	ja //
+22 louse	tw~ala //
+23 tree	LaLa, th~i //
+24 seed	bewu, Lw~a5elo //
+25 leaf	!abuNg~a, kh~asi //
+26 root	pand~e, !abo //
+27 bark	!olo //
+28 skin	kh~umb~a //
+29 flesh	5ama //
+30 blood	gazi, oph~o //
+31 bone	th~amb~o //
+32 grease	futh~a //
+33 egg	!and~a, th~ubi //
+34 horn	ph~ond~o //
+35 tail	sila //
+36 feather	ph~aph~e, siba //
+37 hair	wele //
+38 head	kh~and~a //
+39 ear	dL~ebe //
+40 eye	so, Lo //
+41 nose	kh~ala, pumulo //
+42 mouth	lomo //
+43 tooth	5o //
+44 tongue	limi //
+45 claw	ph~o, kh~okh~obana //
+46 foot	5awo //
+47 knee	dolo //
+48 hand	sandL$a //
+49 belly	su //
+50 neck	tamo, !ala //
+51 breasts	fuba, bele //
+52 heart	Liziyo //
+53 liver	bind~i //
+54 drink	ph~uza, hubuluza //
+55 eat	dL~a, memfuza //
+56 bite	luma, zavuza //
+57 see	bona //
+58 hear	zw~a, lalela //
+59 know	azi, azana //
+60 sleep	lala //
+61 die	fa, Sona //
+62 kill	bulala, bubisa //
+63 swim	Lamb~a, bukuda //
+64 fly	nd~iza, ph~aph~a //
+65 walk	hamb~a //
+66 come	za, sond~ela //
+67 lie	!amb~a amaNg~a, lumb~a //
+68 sit	Lala //
+69 stand	ma, sinaba //
+70 give	ph~a, nika //
+71 say	th~i, So
+72 sun	laNg~a //
+73 moon	5aNg~a //
+74 star	ka5ezi //
+75 water	nz~i //
+76 rain	vula //
+77 stone	Ce, dw~ala //
+78 sand	Labath~i //
+79 earth	Labath~i //
+80 cloud	fu //
+81 smoke	tuth~u, si //
+82 fire	lilo, laNg~abi //
+83 ash	loth~a //
+84 burn	Sisa, vuth~a //
+85 path	dL~ela, 5ath~elo //
+86 mountain	taba, aLamb~a //
+87 red	bomvu, bejile //
+88 green	luLaza, Calo //
+89 yellow	liph~uzi, n!~omb~o //
+90 white	mLoph~e //
+91 black	5ama //
+92 night	suku //
+93 hot	Sisayo, fudumele //
+94 cold	makh~aza, band~ayo //
+95 full	!w~ele, th~e //
+96 new	Sa, sa!alw~a //
+97 good	buLe, luNg~a //
+98 round	th~i ph~end~u, diliNg~a //
+99 dry	omile, Sile //
+100 name	gama, bizo //

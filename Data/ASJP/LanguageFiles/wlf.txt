@@ -1,0 +1,42 @@
+WOLOF{NC.NORTHERN_ATLANTIC|Niger-Congo,Atlantic-Congo,Atlantic,Northern,Senegambian,Fula-Wolof,Wolof@Atlantic-Congo,North-CentralAtlantic,NorthAtlantic,Wolofic}
+ 1   15.25  -16.00     3976500   wlf   wol
+1 I	man, ma //
+2 you	yow, ya //
+3 we	nun, nanu //
+11 one	ban5 //
+12 two	5ar //
+18 person	XXX //
+19 fish	Tan //
+21 dog	xaT //
+22 louse	XXX //
+23 tree	garap //
+25 leaf	XXX //
+28 skin	dar //
+30 blood	derat, d3m3 //
+31 bone	yax //
+34 horn	XXX //
+39 ear	nop3 //
+40 eye	b3t //
+41 nose	bakan //
+43 tooth	b35 //
+44 tongue	lami5 //
+47 knee	om //
+48 hand	loxo //
+51 breast	XXX //
+53 liver	XXX //
+54 drink	nan //
+57 see	gis //
+58 hear	dega //
+61 die	de //
+66 come	5ow //
+72 sun	Tent~3 //
+74 star	XXX //
+75 water	nd~ox //
+77 stone	doT, xar //
+82 fire	safara //
+85 path	yon //
+86 mountain	XXX //
+92 night	gudi //
+95 full	XXX //
+96 new	XXX //
+100 name	tur, sant~3 //

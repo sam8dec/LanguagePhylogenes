@@ -1,0 +1,42 @@
+ALBANIAN{IE.ALBANIAN|Indo-European,Albanian,Tosk@Indo-European,Albanian,Albanian-Tosk}
+ 1   41.00   20.00     3108200   alb   als
+1 I	un3 //
+2 you	ju //
+3 we	ne //
+11 one	Ne //
+12 two	di //
+18 person	vet3, person, individ //
+19 fish	peSk //
+21 dog	Ten //
+22 louse	morr //
+23 tree	dru, pem3 //
+25 leaf	Tethe, flet3, kanat //
+28 skin	l3kur3, l3vore //
+30 blood	Tak //  ID unclear, either aln or als. source says: Shqip. Member of macrolanguage sqi.
+31 bone	aSt, koc, hal3 //
+34 horn	bri, bori //
+39 ear	veS, d3Tim, dorez3, kalli //
+40 eye	si, vrim3, filiTe, syth, Sikim //
+41 nose	hund3, nuhatye //
+43 tooth	8Emb, 8Emb3z //
+44 tongue	Tuh3, t3 folurit //
+47 knee	Tu //
+48 hand	dor3, pun3tor, akrep, pyes3marrye //
+51 breast	kraharor, Ti //
+53 liver	m3lCi //
+54 drink	pirye, got3 //
+57 see	Soh, Sikoy, v3 re, STuay, kuydesem, kuptoj //
+58 hear	d3gyoy, m3soy, marr veS, marr layme, letra //
+61 die	vdes, Nordh, viSk, Suay //
+66 come	viy //
+72 sun	dyell //
+74 star	ill //
+75 water	uj3 //
+77 stone	gur //
+82 fire	ndez, dyeg, Stie, T3lloy //
+85 path	Steg, rrug3 //
+86 mountain	mal //
+92 night	nat3 //
+95 full	e mbuSur plot me,i mbuSur plot me, i plot3, e plot3, plot3siSt, t3r3siSt, plot //
+96 new	i ri, e re, i fresk3t, e fresk3t //
+100 name	em3r, nam, fam3 //

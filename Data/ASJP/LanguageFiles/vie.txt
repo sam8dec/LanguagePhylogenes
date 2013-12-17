@@ -1,0 +1,102 @@
+VIETNAMESE{AuA.VIET-MUONG|Austro-Asiatic,Mon-Khmer,Viet-Muong,Vietnamese@Austroasiatic,Vietic,Viet-Muong}
+ 1   10.50  106.50    67762060   vie   vie
+1 I	toi //
+2 you	may, ti //
+3 we	ta, mi5 //
+4 this	XXX //
+5 that	XXX //
+6 who	XXX //
+7 what	kai gi //
+8 not	kx~oN //
+9 all	XXX //
+10 many	5ieu //
+11 one	mot //
+12 two	hai //
+13 big	lon //
+14 long	Zai //
+15 small	5o //
+16 woman	XXX //
+17 man	XXX //
+18 person	Nuoi //
+19 fish	ka //
+20 bird	tim //
+21 dog	to //
+22 louse	ti //
+23 tree	kay //
+24 seed	hot //
+25 leaf	la //
+26 root	re //
+27 bark	vo kay //
+28 skin	Za //
+29 flesh	8it //
+30 blood	mau //
+31 bone	SuoN //
+32 grease	XXX //
+33 egg	CuN //
+34 horn	XXX //
+35 tail	Zuoi //
+36 feather	loN tim //
+37 hair	tok //
+38 head	dau //
+39 ear	tai //
+40 eye	mat //
+41 nose	mui //
+42 mouth	mieN //
+43 tooth	raN //
+44 tongue	luoi //
+45 claw	moN //
+46 foot	tan //
+47 knee	dau goi //
+48 hand	tay //
+49 belly	XXX //
+50 neck	ko //
+51 breasts	Nuk //
+52 heart	Cai tim //
+53 liver	%gan //  probably borrowed from Old Chinese (LWT)
+54 drink	uoN //
+55 eat	an //
+56 bite	XXX //
+57 see	%8ay //  probably borrowed from Old Chinese
+58 hear	Nhe //
+59 know	biet //
+60 sleep	XXX //
+61 die	tet //
+62 kill	giet //
+63 swim	XXX //
+64 fly	bay //
+65 walk	di //
+66 come	XXX //
+67 lie	Nu, nam //
+68 sit	Noi //
+69 stand	duN Zay //
+70 give	to //
+71 say	raN //
+72 sun	mat Coi //
+73 moon	CaN //
+74 star	Noi sao //
+75 water	nuok //
+76 rain	mua //
+77 stone	da //
+78 sand	kat //
+79 earth	dat //
+80 cloud	maj //
+81 smoke	kx~oi //
+82 fire	lua //
+83 ash	Co //
+84 burn	tay //
+85 path	duoN //
+86 mountain	nui //
+87 red	do //
+88 green	XXX //
+89 yellow	vaN //
+90 white	CaN //
+91 black	den //
+92 night	dem //
+93 hot	noN //
+94 cold	la5 //
+95 full	day //
+96 new	moi //
+97 good	tot //
+98 round	XXX //
+99 dry	kx~o //
+100 name	ten //

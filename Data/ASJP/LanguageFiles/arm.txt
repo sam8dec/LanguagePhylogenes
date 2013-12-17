@@ -1,0 +1,42 @@
+EASTERN_ARMENIAN{IE.ARMENIAN|Indo-European,Armenian@Indo-European,Armenic}
+ 2   40.00   45.00     5924320   arm   hye
+1 I	yes //
+2 you	du //
+3 we	menkh~ //
+11 one	mek //
+12 two	yerku //
+18 person	anc, marth~ //
+19 fish	cuk //
+21 dog	Sun //
+22 louse	voCil //
+23 tree	car //
+25 leaf	terev //
+28 skin	maSk //
+30 blood	ary~un //
+31 bone	voskor //
+34 horn	yejy~ur //
+39 ear	akanj //
+40 eye	aCkh~ //
+41 nose	kh~ith~ //
+43 tooth	atam //
+44 tongue	lezu //
+47 knee	cunk //
+48 hand	cer //
+51 breast	kurckh~ //
+53 liver	ly~ard //
+54 drink	x3me //
+57 see	tesne //
+58 hear	l3se //
+61 die	vaCh~anve //
+66 come	ga //
+72 sun	arev //
+74 star	ast3x //
+75 water	jur //
+77 stone	kh~ar //
+82 fire	boch~ //
+85 path	arahet, Ch~anapar //
+86 mountain	sar //
+92 night	giSer //
+95 full	li //
+96 new	nor //
+100 name	anun //

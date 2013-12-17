@@ -1,0 +1,102 @@
+TURKISH{Alt.TURKIC|Altaic,Turkic,Southern,Turkish@Turkic,CommonTurkic,Oghuz-Kipchak-Uyghur,Oghuz,WestOghuz,NuclearWestOghuz}
+ 1   39.00   35.00    50733420   tur   tur
+1 I	ben //
+2 you	sen, siz //
+3 we	biz //
+4 this	bu //
+5 that	Su, o //
+6 who	kim, o ki //
+7 what	ne, nasil, hangi //
+8 not	deyil //
+9 all	bitin, hepis //
+10 many	birCok //
+11 one	bir, tek //
+12 two	iki //
+13 big	biyik, kojaman //
+14 long	uzun //
+15 small	kiCik, ufak //
+16 woman	kad3n //
+17 man	erkek, %adam //  Arabic loan
+18 person	sah3s, kimse //
+19 fish	bal3k //
+20 bird	kuS //
+21 dog	k3pek, ayakl3k //
+22 louse	bit, kele //
+23 tree	ayaC Sejere //
+24 seed	tohum //
+25 leaf	yeprak //
+26 root	k3k //
+27 bark	kabuk //
+28 skin	deri, post //
+29 flesh	vijut, ten //
+30 blood	kan //
+31 bone	kemik, k3lC3k //
+32 grease	ya //
+33 egg	yumurta //
+34 horn	bonuz, boru //
+35 tail	kuruk, arka //
+36 feather	kuS tiyi //
+37 hair	saC, k3l //
+38 head	baS, kafa //
+39 ear	kulak, baSak //
+40 eye	delik, ilik //
+41 nose	burun uj //
+42 mouth	ay3z, mansap //
+43 tooth	diS //
+44 tongue	dil, lisan //
+45 claw	t3rnak //
+46 foot	ayak //
+47 knee	diz //
+48 hand	el, akrep //
+49 belly	kar3n //
+50 neck	boyun, gerdan //
+51 breasts	g3Gis, meme //
+52 heart	kalb, yirek //
+53 liver	%karajiyer //  loan
+54 drink	iCki, iCejek //
+55 eat	ye //
+56 bite	3s3rma, lokma //
+57 see	g3r, anla //
+58 hear	iSitmek, duy //
+59 know	bil, tan3 //
+60 sleep	uyu //
+61 die	zar, kal3p //
+62 kill	3ldir, katlet //
+63 swim	yiz //
+64 fly	uCur //
+65 walk	yiri, gez //
+66 come	gel //
+67 lie	yat, uzan //
+68 sit	otur //
+69 stand	ayakta dur, dik dur //
+70 give	ver, bay3Sla //
+71 say	s3l, de //
+72 sun	gineS //
+73 moon	ay, kamer //
+74 star	y3ld3z //
+75 water	su //
+76 rain	yamur //
+77 stone	taS, Cekirdik //
+78 sand	kum //
+79 earth	toprak, kara //
+80 cloud	bulut //
+81 smoke	duman //
+82 fire	ateS, yang3n //
+83 ash	kil //
+84 burn	yak, yan //
+85 path	keCi yolu, patika //
+86 mountain	da silsilesi //
+87 red	k3rm3z3, k3z3l //
+88 green	yeSil, ham //
+89 yellow	sar3 //
+90 white	beyaz, ak //
+91 black	siyah, kara //
+92 night	geje //
+93 hot	s3jak, k3zg3n //
+94 cold	soyuk, sakin //
+95 full	dolugun, tam //
+96 new	yeni, %taze //  loan
+97 good	iyi, gizel //
+98 round	yuvarlak, toparlak //
+99 dry	kuru, kurak //
+100 name	isim, ad //

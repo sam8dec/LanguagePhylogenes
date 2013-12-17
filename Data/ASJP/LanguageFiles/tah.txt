@@ -1,0 +1,42 @@
+TAHITIAN{An.OCEANIC|Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,CentralPacific,EastFijian-Polynesian,Polynesian,Nuclear,East,Central,Tahitic@Austronesian,NuclearAustronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,CentralPacificlinkage,Tokelau-Fijian,Polynesian,NuclearPolynesian,Ellicean,EasternPolynesian,CentralEasternPolynesian,Tahitic}
+ 1  -17.67 -149.58       68260   tah   tah
+1 I	vau //
+2 you	XXX //
+3 we	tatou //
+11 one	ho7e //
+12 two	piti //
+18 person	ta7ata //
+19 fish	i7a //
+21 dog	uri //
+22 louse	utu //
+23 tree	ra7au //
+25 leaf	rao7ere //
+28 skin	iri //
+30 blood	toto //
+31 bone	ivi //
+34 horn	tara //
+39 ear	tari7a //
+40 eye	mata //
+41 nose	ihu //
+43 tooth	niho //
+44 tongue	arero //
+47 knee	turi //
+48 hand	rima //
+51 breast	ouma //
+53 liver	upa7a //
+54 drink	inu //
+57 see	hi7o //
+58 hear	fa7aro7o //
+61 die	pohe, mate //
+66 come	haere mai //
+72 sun	mahana //
+74 star	feti7a //
+75 water	vai //
+77 stone	ofa7i //
+82 fire	auahi //
+85 path	eatia, ea7ia //
+86 mountain	mou7a //
+92 night	ru7i, po //
+95 full	api //
+96 new	api //
+100 name	i7oa //

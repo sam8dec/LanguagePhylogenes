@@ -1,0 +1,42 @@
+BENGALI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,Easternzone,Bengali-Assamese@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanEasternzone,Oriya-Gauda-Kamrupa,Gauda-Kamrupa,Gauda-Banga}
+ 1   24.00   90.00   193263700   ben   ben
+1 I	ami //
+2 you	tumi, apni //
+3 we	amra //
+11 one	ek //
+12 two	dui //
+18 person	manuS, lok //
+19 fish	maCh~ //
+21 dog	kukur //
+22 louse	ukun //
+23 tree	gaCh~ //
+25 leaf	pata //
+28 skin	Camra //
+30 blood	rokto //
+31 bone	hari //
+34 horn	SiN //
+39 ear	kan //
+40 eye	Cokh~ //
+41 nose	nak //
+43 tooth	da*t //
+44 tongue	jibh~, jiba //
+47 knee	ha*tu //
+48 hand	hat //
+51 breast	buk //
+53 liver	kolje //
+54 drink	pan //
+57 see	dekh~ //
+58 hear	Son //
+61 die	mor //
+66 come	aS //
+72 sun	Surjo //
+74 star	tara //
+75 water	pani, jol //
+77 stone	path~or //
+82 fire	agun //
+85 path	rasta, poth~ //
+86 mountain	pahar //
+92 night	ratro, rat //
+95 full	bh~ora //
+96 new	notun //
+100 name	nam //

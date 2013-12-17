@@ -1,0 +1,42 @@
+WELSH{IE.CELTIC|Indo-European,Celtic,Insular,Brythonic@Indo-European,Celtic,NuclearCeltic,TGBCeltic,InsularCeltic,Brythonic}
+ 1   52.00   -3.00      536890   wec   cym
+1 I	mi //
+2 you	ti //
+3 we	ni //
+11 one	3n //
+12 two	da3, du3 //
+18 person	d3n, gur //
+19 fish	p3sgod3n, p3sgod //
+21 dog	ki //
+22 louse	L33En //
+23 tree	prEn, ko3dEn //
+25 leaf	d3ilEn, dalEn //
+28 skin	kro3n //
+30 blood	gw~a3d //
+31 bone	asgurn //
+34 horn	korn //
+39 ear	kl3st //
+40 eye	L3gad //
+41 nose	tru3n //
+43 tooth	dant //
+44 tongue	tavod //
+47 knee	glin //
+48 hand	Lau //
+51 breast	bron, du3vron //
+53 liver	ia3, av3 //
+54 drink	3vE //
+57 see	gw~El, kanvo //
+58 hear	kl3uE //
+61 die	maru //
+66 come	do, d3vo //
+72 sun	ha3l //
+74 star	sErEn //
+75 water	dur, duvr //
+77 stone	karEg, ma3n //
+82 fire	ton //
+85 path	Lu3br //
+86 mountain	m3n38 //
+92 night	nos //
+95 full	Laun //
+96 new	nEu38 //
+100 name	Enu //

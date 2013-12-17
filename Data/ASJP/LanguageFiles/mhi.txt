@@ -1,0 +1,42 @@
+MARATHI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,Southernzone@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanSouthernzone,Maharastric,Marathic}
+ 1   19.00   76.00    71780660   mhi   mar
+1 I	mi //
+2 you	tula //
+3 we	ap3n //
+11 one	ek //
+12 two	don //
+18 person	manus //
+19 fish	maCli //
+21 dog	k3tra7 //
+22 louse	j3nt~u7 //
+23 tree	vrikS37 //
+25 leaf	pan //
+28 skin	C3mdi //
+30 blood	rat //
+31 bone	hEdi7 //
+34 horn	sund~ //
+39 ear	kan37 //
+40 eye	doLE7 //
+41 nose	nak //
+43 tooth	dant~ //
+44 tongue	jib //
+47 knee	gh~utn37 //
+48 hand	hath~ //
+51 breast	XXX //
+53 liver	XXX //
+54 drink	bi // (prefix)
+57 see	b3g //
+58 hear	ayk // (prefix)
+61 die	mr3ty~u7 //
+66 come	ye //
+72 sun	sury37 //
+74 star	tare //
+75 water	pani //
+77 stone	d3g3d //
+82 fire	ag37 //
+85 path	marg37 //
+86 mountain	pahad //
+92 night	ratri7 //
+95 full	purn37 //
+96 new	n3vin //
+100 name	nav //

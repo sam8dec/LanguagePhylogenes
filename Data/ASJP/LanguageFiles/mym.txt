@@ -1,0 +1,42 @@
+MALAYALAM{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tamil-Kannada,Tamil-Kodagu,Tamil-Malayalam,Malayalam@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Tamil-Kota,Tamil-Toda,Tamil-Irula,Tamil-Kodagu,Tamil-Malayalam,Malayalamoid}
+ 1   10.00   76.50    33534600   mym   mal
+1 I	5an //
+2 you	ni //
+3 we	naNaL //
+11 one	onu //
+12 two	rantu //
+18 person	%manuSy~an // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+19 fish	matsy~am //
+21 dog	nayu //
+22 louse	penu //
+23 tree	maram //
+25 leaf	ila //
+28 skin	tolu //
+30 blood	%raktam // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+31 bone	elu //
+34 horn	kompu //
+39 ear	katu //
+40 eye	kanu //
+41 nose	muku //
+43 tooth	palu //
+44 tongue	naku //
+47 knee	muLaNkal //
+48 hand	kai //
+51 breast	maru //
+53 liver	iral //
+54 drink	kuti //
+57 see	kanu //
+58 hear	keL //
+61 die	mari //
+66 come	varu //
+72 sun	%sury~an // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+74 star	%nakSatram // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+75 water	veLam //
+77 stone	kalu //
+82 fire	ti //
+85 path	vaLi //
+86 mountain	mala //
+92 night	%ratri //  loan from Sanskrit (Sjoberg and Sjoberg 1956)
+95 full	nira5a //
+96 new	putu //
+100 name	peru //

@@ -1,0 +1,102 @@
+ENGLISH{IE.GERMANIC|Indo-European,Germanic,West,English@Indo-European,Germanic,NorthwestGermanic,WestGermanic,NorthSeaGermanic,Anglo-Frisian,Anglian,Mercian,Macro-English}
+ 1   52.00    0.00   334800758   eng   eng
+1 I	Ei //
+2 you	yu //
+3 we	wi //
+4 this	8is //
+5 that	8Et //
+6 who	hu //
+7 what	wh~at //
+8 not	nat //
+9 all	ol //
+10 many	mini //
+11 one	w3n //
+12 two	tu //
+13 big	big //
+14 long	loN //
+15 small	smaul, litl //
+16 woman	w3min //
+17 man	mEn //
+18 person	%pers3n //  loan from Middle French, ultimately Greek (LWT)
+19 fish	fiS //
+20 bird	b3rd //
+21 dog	dag //
+22 louse	laus //
+23 tree	tri //
+24 seed	sid //
+25 leaf	lif //
+26 root	rut //
+27 bark	%bark // loan from Old Norse  (LWT)
+28 skin	%skin // loan from Old Norse  (LWT)
+29 flesh	flES, mit //
+30 blood	bl3d //
+31 bone	bon //
+32 grease	%gris // loan from French, ultimately Latin (LWT)
+33 egg	%eg // loan from Old Norse
+34 horn	horn //
+35 tail	tel //
+36 feather	fe8r //
+37 hair	hEr //
+38 head	hed //
+39 ear	ir //
+40 eye	Ei //
+41 nose	nos //
+42 mouth	mau8 //
+43 tooth	tu8 //
+44 tongue	t3N //
+45 claw	klau //
+46 foot	fut //
+47 knee	ni //
+48 hand	hEnd //
+49 belly	beli //
+50 neck	nek //
+51 breasts	brest //
+52 heart	hart //
+53 liver	liv3r //
+54 drink	drink //
+55 eat	it //
+56 bite	bEit //
+57 see	si //
+58 hear	hir //
+59 know	no //
+60 sleep	slip //
+61 die	dEi //
+62 kill	kil //
+63 swim	swim //
+64 fly	flEi //
+65 walk	wok //
+66 come	k3m //
+67 lie	lEi //
+68 sit	sit //
+69 stand	stEnd //
+70 give	%giv //  loan from Old Norse (LWT)
+71 say	sei //
+72 sun	s3n //
+73 moon	mun //
+74 star	star //
+75 water	wat3r //
+76 rain	rein //
+77 stone	ston //
+78 sand	sEnd //
+79 earth	3r8 //
+80 cloud	klaud //
+81 smoke	smok //
+82 fire	fEir //
+83 ash	ES //
+84 burn	b3rn //
+85 path	pE8 //
+86 mountain	%maunt3n // loan from French, ultimately Latin
+87 red	red //
+88 green	grin //
+89 yellow	yelo
+90 white	wh~Eit //
+91 black	blEk //
+92 night	nEit //
+93 hot	hat //
+94 cold	kold //
+95 full	ful //
+96 new	nu //
+97 good	gud //
+98 round	%rawnd // loan from French, ultimately Latin
+99 dry	drEi //
+100 name	nem //

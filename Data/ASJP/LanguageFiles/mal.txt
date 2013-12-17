@@ -1,0 +1,42 @@
+MALAGASY_BARA{An.BARITO|Austronesian,Malayo-Polynesian,GreaterBarito,East,Malagasy@Austronesian,NuclearAustronesian,Malayo-Polynesian,GreaterBarito,EastGreaterBarito,Malagasic,North-CentralMalagasic,CentralMalagasic,NorthCentralMalagasic,Bara-Merina}
+ 1  -23.00   45.75      600000         bhr
+1 I	ahu //
+2 you	hanau //
+3 we	8ika //
+11 one	raiki //
+12 two	rui //
+18 person	ulu //
+19 fish	fia //
+21 dog	XXX //
+22 louse	hau //
+23 tree	%hazu //  loan from Malay prior to migration (LWT)
+25 leaf	ravi //
+28 skin	hudi8e //
+30 blood	ra //
+31 bone	%toula //  probably loan from Javanese prior to migration (LWT)
+34 horn	8ifa //
+39 ear	%sufi //  loan from Malay prior to migration (LWT)
+40 eye	%masu //  loan from Bantu (LWT)
+41 nose	uru //
+43 tooth	nifi //
+44 tongue	lela //
+47 knee	luhaliki //
+48 hand	%taNa //  probably loan from Malay prior to migration (LWT)
+51 breast	nunu //
+53 liver	ati //
+54 drink	inu //
+57 see	hita //
+58 hear	hare //
+61 die	mati //
+66 come	avi //
+72 sun	maheniki //
+74 star	vasia //
+75 water	ranum //
+77 stone	vatu //
+82 fire	afu //
+85 path	lala //
+86 mountain	tendr$umb~uhice //
+92 night	ali //
+95 full	%fenu //  loan from Malay prior to migration (LWT)
+96 new	vau //
+100 name	anara //

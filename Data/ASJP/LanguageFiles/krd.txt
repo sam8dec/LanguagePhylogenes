@@ -1,0 +1,42 @@
+KURDISH_CENTRAL{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Northwestern,Kurdish@Indo-European,Indo-Iranian,Iranian,WesternIranian,NorthwesternIranian,Kermanic,Kurdish}
+ 1   36.00   44.00     6750000         ckb
+1 I	XXX //
+2 you	to //
+3 we	ema //
+11 one	yak //
+12 two	du //
+18 person	kas //
+19 fish	mosi //
+21 dog	sag //
+22 louse	XXX //
+23 tree	dor //
+25 leaf	para, galo //
+28 skin	pest //
+30 blood	xen //
+31 bone	esqon //
+34 horn	Sox //
+39 ear	ge //
+40 eye	Cow //
+41 nose	lut //
+43 tooth	don //
+44 tongue	zimon //
+47 knee	aZno //
+48 hand	dast //
+51 breast	siN //
+53 liver	jarg //
+54 drink	xwordinawa //
+57 see	binin //
+58 hear	bistin //
+61 die	giyon darCun //
+66 come	farmun //
+72 sun	xor, roZ //
+74 star	astera //
+75 water	ow //
+77 stone	bard //
+82 fire	ogir //
+85 path	re //
+86 mountain	Sox, Ciyo //
+92 night	XXX //
+95 full	pir //
+96 new	toza, ne //
+100 name	now //

@@ -1,0 +1,102 @@
+HAUSA{AA.WEST_CHADIC|Afro-Asiatic,Chadic,West,A,A.1@Afro-Asiatic,Chadic,WestChadic,WestChadicA,WestChadicA.1}
+ 1   12.00    7.00    24988000   hau   hau
+1 I	ni //
+2 you	kai, ki //
+3 we	mu, ni //
+4 this	wannan //
+5 that	wanTan //
+6 who	wa //
+7 what	me //
+8 not	ba ba //
+9 all	duka //
+10 many	yawa //
+11 one	daya //
+12 two	%biyu //  loan from Benue-Congo (LWT)
+13 big	babba //
+14 long	s"awo, s"ayi //
+15 small	k"arami //
+16 woman	maTe //
+17 man	mutum //
+18 person	mutum //
+19 fish	kifi //
+20 bird	s"uns"u //
+21 dog	kare //
+22 louse	kw~arkw~ata //
+23 tree	%itaTe, bishiya //  loan from Tubu (LWT)
+24 seed	iri //
+25 leaf	ganye //
+26 root	saiwa //
+27 bark	b"awo //
+28 skin	fata //
+29 flesh	s"oka //
+30 blood	jini //
+31 bone	k"ashi //
+32 grease	maik"o //
+33 egg	k"w~ai //
+34 horn	k"aho //
+35 tail	wus"iya, jela //
+36 feather	gashi, gasu //
+37 hair	gashi, gasu //
+38 head	kai //
+39 ear	kunne //
+40 eye	ido //
+41 nose	hanTi //
+42 mouth	baki //
+43 tooth	hak"ori //
+44 tongue	harshe //
+45 claw	k"ambori, akaifa //
+46 foot	k"afa, sau //
+47 knee	gw~iwa //
+48 hand	hannu //
+49 belly	Tiki //
+50 neck	wuya //
+51 breasts	nono, mama //
+52 heart	zuTiya //
+53 liver	hanta //
+54 drink	sha //
+55 eat	Ti //
+56 bite	Tiza, Tije //
+57 see	gani //
+58 hear	ji //
+59 know	sani //
+60 sleep	yi barTi //
+61 die	muti //
+62 kill	kashe //
+63 swim	yi iyo, yi nink"aya //
+64 fly	tashi //
+65 walk	yi yawo, yi tafiya //
+66 come	zo, taho //
+67 lie	kw~anta //
+68 sit	zauna //
+69 stand	s"aya //
+70 give	ba, bai wa //
+71 say	Te, furta //
+72 sun	rana //
+73 moon	wata //
+74 star	tauraro //
+75 water	ruwa //
+76 rain	ruwa //
+77 stone	dus"e //
+78 sand	yashi //
+79 earth	k"asa //
+80 cloud	gajimare //
+81 smoke	hayak"i //
+82 fire	wuta //
+83 ash	toka //
+84 burn	k"ona //
+85 path	hanya, turba //
+86 mountain	dus"e, babban s"auni //
+87 red	ja //
+88 green	kore //
+89 yellow	rawaya //
+90 white	fari //
+91 black	bak"i //
+92 night	dare //
+93 hot	zafi, gumi //
+94 cold	sanyi //
+95 full	Tikakke //
+96 new	sabo //
+97 good	kyau //
+98 round	kewaya, da7ira //
+99 dry	XXX //
+100 name	suna //

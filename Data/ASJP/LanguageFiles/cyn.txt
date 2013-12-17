@@ -1,0 +1,42 @@
+CHEYENNE{Alg.ALGONQUIAN|Algic,Algonquian@Algic,Algonquian}
+ 1   47.00  -95.00        2100   cyn   chy
+1 I	nanehov //
+2 you	ninehov //
+3 we	ninehovh~ema //
+11 one	noka //
+12 two	nixa //
+18 person	vostan //
+19 fish	noman //
+21 dog	hotam //
+22 louse	XXX //
+23 tree	hoc
+25 leaf	vepoc //
+28 skin	nacevx~tan //
+30 blood	mae //
+31 bone	mach~ekonoc //
+34 horn	vevsc //
+39 ear	matavoc //
+40 eye	maex //
+41 nose	maevo //
+43 tooth	ves //
+44 tongue	vitanov //
+47 knee	manstan
+48 hand	namecevaeno //
+51 breast	mach~eSeon //
+53 liver	he, hesc //
+54 drink	naman //
+57 see	rad //
+58 hear	nanista //
+61 die	enaeoc //
+66 come	nahoen //
+72 sun	eSehe //
+74 star	hotoT //
+75 water	map //
+77 stone	hohona //
+82 fire	hoesta //
+85 path	meo //
+86 mountain	hohona //
+92 night	tae //
+95 full	otom //
+96 new	emona //
+100 name	vehestoc //

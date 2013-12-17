@@ -1,0 +1,42 @@
+IGBO_ONITSHA{NC.IGBOID|Niger-Congo,Atlantic-Congo,Volta-Congo,Benue-Congo,Igboid,Igbo@Atlantic-Congo,Volta-Congo,Benue-Congo,Igboid,NuclearIgboid}
+ 1    6.00    7.33    18000000   igb   ibo
+1 I	mu, m //
+2 you	gi, ng~i //
+3 we	a5i, ayi //
+11 one	ofu //
+12 two	ibuo, nabo //
+18 person	o5e //
+19 fish	azu //
+21 dog	nk~ita //
+22 louse	igw~u //
+23 tree	osisi //
+25 leaf	akw~ukw~o //
+28 skin	akp~ukp~o //
+30 blood	mm~e, obala //
+31 bone	okp~ukp~u //
+34 horn	mp~i //
+39 ear	nt~i //
+40 eye	a5a //
+41 nose	imi //
+43 tooth	eze //
+44 tongue	ile //
+47 knee	ikp~ele //
+48 hand	aka //
+51 breast	ala //
+53 liver	imeju //
+54 drink	la, Nu //
+57 see	fu, kili //
+58 hear	nu //
+61 die	nw~u //
+66 come	bia //
+72 sun	a5aanw~u, anw~u //
+74 star	kp~akp~ando //
+75 water	mm~ili //
+77 stone	mkp$ume //
+82 fire	oku //
+85 path	uzo //
+86 mountain	ugw~u //
+92 night	uCiCi //
+95 full	ju //
+96 new	ofu //
+100 name	afa //

@@ -1,0 +1,42 @@
+AFAR{AA.EASTERN_CUSHITIC|Afro-Asiatic,Cushitic,East,Saho-Afar@Afro-Asiatic,Cushitic,EastCushitic,LowlandEastCushitic,Saho-Afar}
+ 2   12.00   42.00     1379200   qaf   aar
+1 I	anu, 3nu //
+2 you	atu, 3tu //
+3 we	nanu, n3nu //
+11 one	inki, iNk~i //
+12 two	lamay, l3m3y //
+18 person	saXadatu, s3X3d3tu //
+19 fish	kulunt~a, kulunt~3 //
+21 dog	kuta, kut3 //
+22 louse	inkaXE, iNk~3XE //
+23 tree	hada, h3d3 //
+25 leaf	ayufta, 3yuft3 //
+28 skin	arab, 3r3b //
+30 blood	Xabal, X3b3l //
+31 bone	lafa, l3f3 //
+34 horn	gasa, g3s3 //
+39 ear	ati, 3ti //
+40 eye	int~i //
+41 nose	san, s3n //
+43 tooth	modina, modin3 //
+44 tongue	araba, 3r3b3 //
+47 knee	gulub //
+48 hand	gaba, g3b3 //
+51 breast	angu, 3Ng~u //
+53 liver	tiro //
+54 drink	aXub, 3Xub //
+57 see	abul, 3bul //
+58 hear	obiy //
+61 die	rab, r3b //
+66 come	EmEt //
+72 sun	aro, 3ro //
+74 star	Xutuk //
+75 water	lE //
+77 stone	da, d3 //
+82 fire	gira, gir3 //
+85 path	gita, git3 //
+86 mountain	XalE, X3lE //
+92 night	bar, b3r //
+95 full	XXX //
+96 new	Xusba, Xusb3 //
+100 name	migaXa, mig3X3 //

@@ -1,0 +1,42 @@
+POLISH{IE.SLAVIC|Indo-European,Slavic,West,Lechitic@Indo-European,Balto-Slavic,Slavic,WestSlavic,Lechitic}
+ 1   52.00   20.00    39042570   pol   pol
+1 I	ya //
+2 you	t3 //
+3 we	m3 //
+11 one	yEdEn //
+12 two	dva //
+18 person	osoba, CwoviEk // [Cw~oviEk]
+19 fish	r3ba //
+21 dog	piEs //
+22 louse	vES //
+23 tree	dZEvo //
+25 leaf	liSC //
+28 skin	skura //
+30 blood	krEf //
+31 bone	koSC //
+34 horn	ruk //
+39 ear	uxo //
+40 eye	oko //
+41 nose	nos //
+43 tooth	zo*p //
+44 tongue	yE*z3k, mova //
+47 knee	kolano //
+48 hand	rE*ka //
+51 breast	piErS //
+53 liver	vo*troba //
+54 drink	piC //
+57 see	vijEC //
+58 hear	sw3SEC // [sw~3SEC]
+61 die	umiEraC //
+66 come	pZ3b3C //
+72 sun	swo5cE // [sw~o5cE]
+74 star	gviazda //
+75 water	voda //
+77 stone	kamiE5 //
+82 fire	ogiE5 //
+85 path	SCEZka //
+86 mountain	gura //
+92 night	noc //
+95 full	pEwn3 //
+96 new	nov3 //
+100 name	imiE //

@@ -1,0 +1,42 @@
+KABARDIAN{NWC.NORTHWEST_CAUCASIAN|NorthCaucasian,WestCaucasian,Circassian@Abkhaz-Adyge,Circassian}
+ 1   43.50   43.50     1628500   kab   kbd
+1 I	s3 //
+2 you	w3 //
+3 we	f3 //
+11 one	z3 //
+12 two	t"w~3 //
+18 person	c"3w //
+19 fish	bc3Z3y //
+21 dog	h3 //
+22 louse	c"3 //
+23 tree	Z3X //
+25 leaf	th~3mp3 //
+28 skin	f3 //
+30 blood	L3 //
+31 bone	q"w~3pSh~3 //
+34 horn	bZ3 //
+39 ear	th~3k"w~3m3 //
+40 eye	n3 //
+41 nose	p3 //
+43 tooth	c3 //
+44 tongue	bz3gw~3 //
+47 knee	L3gw~aZ3 //
+48 hand	XXX //
+51 breast	bX3 //
+53 liver	th~3nS7~3w //
+54 drink	y3f3n //
+57 see	Law3n //
+58 hear	z3x3x3n //
+61 die	tL"3n, z3X3tL"3n //
+66 come	q"3kw"3n //
+72 sun	d3X3 //
+74 star	waw3 //
+75 water	ps3 //
+77 stone	m3w3 //
+82 fire	maf"3 //
+85 path	XXX //
+86 mountain	bX3 //
+92 night	Z3S //
+95 full	y3z, z3r3z //
+96 new	S"3 //
+100 name	c"3 //

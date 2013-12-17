@@ -1,0 +1,42 @@
+IRISH_GAELIC{IE.CELTIC|Indo-European,Celtic,Insular,Goidelic@Indo-European,Celtic,NuclearCeltic,TGBCeltic,InsularCeltic,Goidelic,WesternGoidelic}
+ 1   53.00   -8.00      106210   iri   gle
+1 I	my~e //
+2 you	tu, hu //
+3 we	midy~, Si5 //
+11 one	in //
+12 two	xa, da //
+18 person	di53, dini //
+19 fish	i3sk //
+21 dog	ku, madr3 //
+22 louse	sor, mil //
+23 tree	kran, bile //
+25 leaf	diLog //
+28 skin	ky~5as, kraky~3n //
+30 blood	kro, fiL //
+31 bone	knav //
+34 horn	airk, by~an //
+39 ear	klu3s //
+40 eye	suL, rosk //
+41 nose	sron, gisan //
+43 tooth	dy~ed, fy~i3k3L //
+44 tongue	ty~aNg3 //
+47 knee	glu5 //
+48 hand	lav, krov //
+51 breast	brol3x, kux //
+53 liver	kru3e, e //
+54 drink	ol //
+57 see	aurk, fy~eky~ //
+58 hear	kloS, kli5 //
+61 die	eg, i bas //
+66 come	tar, ty~en3 //
+72 sun	gy~ry~i3n //
+74 star	relt3, ri5 //
+75 water	iSky~3 //
+77 stone	klox //
+82 fire	ty~i53 //
+85 path	kosan, kon3ry~ //
+86 mountain	SLi3v //
+92 night	ixy~3 //
+95 full	lan //
+96 new	nu3 //
+100 name	a53my~ //

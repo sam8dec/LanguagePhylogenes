@@ -1,0 +1,42 @@
+WEST_GREENLANDIC{EA.ESKIMO|Eskimo-Aleut,Eskimo,Inuit-Inupiaq@Eskimo-Aleut,Eskimo,Inuit}
+ 1   64.00  -51.00       57000   gre   kal
+1 I	uaNa //
+2 you	illit //
+3 we	uaxut //
+11 one	atasiq //
+12 two	marluk //
+18 person	inuk //
+19 fish	alisaxaq //
+21 dog	qimmiq //
+22 louse	kumak //
+23 tree	urpik //
+25 leaf	pilutaq //
+28 skin	amiq //
+30 blood	ak //
+31 bone	saniq //
+34 horn	nassuk //
+39 ear	siut //
+40 eye	isi //
+41 nose	qiNa //
+43 tooth	kixut //
+44 tongue	uqaq //
+47 knee	siqquq //
+48 hand	assak //
+51 breast	iviaNiq, sakissat //
+53 liver	tiNuk //
+54 drink	imir // (stem/root)
+57 see	taku // (stem/root)
+58 hear	tusa // (stem/root)
+61 die	tuqu // (stem/root)
+66 come	axxir, urnix // (stem/root)
+72 sun	siqiniq //
+74 star	ulluriaq //
+75 water	imiq, taraTuq // (fresh, salt)
+77 stone	uTarak //
+82 fire	inniq //
+85 path	aqqusiaq //
+86 mountain	qaqqaq //
+92 night	unnuaq //
+95 full	ulikar // (stem/root)
+96 new	nutaq //
+100 name	atiq //

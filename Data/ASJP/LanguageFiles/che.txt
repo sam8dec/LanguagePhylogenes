@@ -1,0 +1,144 @@
+CHEROKEE{Iro.SOUTHERN_IROQUOIAN|Iroquoian@Iroquoian}
+ 2   35.50  -83.50       10400   che   chr
+1 I	ayo* //
+2 you	XXX //
+3 we	XXX //
+11 one	sogwu //
+12 two	ghali //
+18 person	yo*wi //
+19 fish	acad7i //
+21 dog	gihli //
+22 louse	XXX //
+23 tree	XXX //
+25 leaf	ughaloga //
+28 skin	unega7lo*7i //
+30 blood	giga //
+31 bone	ghola //
+34 horn	uhyuna //
+39 ear	gale7ni //
+40 eye	aghano*7i, aghdhuli //
+41 nose	ayo*hsuli //
+43 tooth	gandohka //
+44 tongue	gando7i //
+47 knee	ganigeni //
+48 hand	uwo7yeni //
+51 breast	XXX //
+53 liver	uwela //
+54 drink	adihdha //
+57 see	gohwdh //
+58 hear	ahdho*k //
+61 die	XXX //
+66 come	XXX //
+72 sun	iga odono*d7a //
+74 star	nomgwihsi //
+75 water	ama //
+77 stone	XXX //
+82 fire	acila //
+85 path	XXX //
+86 mountain	XXX //
+92 night	unso*hi //
+95 full	hsul // 'full, to be'
+96 new	acehi //
+100 name	XXX //
+TIMUCUA{Tim.TIMUCUA|Unclassified@Timucua}
+ 3   30.25  -82.50       -1850   tmc   tjm
+1 I	ho, honihe //
+2 you	Ci, hoCie //
+3 we	heka //
+4 this	oka, ona //
+5 that	ke, ma //
+6 who	kw~ene, Citako //
+7 what	Ca, kw~ene //
+8 not	ya, ti //
+9 all	toma, aCiko //
+10 many	ara, pukw~a //
+11 one	yaha, mine //
+12 two	yuCa //
+13 big	mini //
+14 long	ihiriba //
+15 small	Ciri, uru //
+16 woman	nia //
+17 man	biro, ano //
+18 person	ano //
+19 fish	kuyu //
+20 bird	Culufi //
+21 dog	efa //
+22 louse	hibe, ike //
+23 tree	aye //
+24 seed	asikw~ita //
+25 leaf	asileko //
+26 root	iCaka, mulu //
+27 bark	anapie, kupa //
+28 skin	keCela, pekw~a //
+29 flesh	oko, soba //
+30 blood	isi //
+31 bone	yabi //
+32 grease	amara, neha //
+33 egg	XXX //
+34 horn	XXX //
+35 tail	api //
+36 feather	metele, tilo //
+37 hair	napona //
+38 head	Cito, kuna //
+39 ear	tiki //
+40 eye	muku //
+41 nose	Cini //
+42 mouth	nipita //
+43 tooth	XXX //
+44 tongue	bali, itukw~a //
+45 claw	kepe //
+46 foot	iCiki //
+47 knee	XXX //
+48 hand	hue //
+49 belly	XXX //
+50 neck	kuna //
+51 breasts	kume, Cokolo //
+52 heart	kume //
+53 liver	Cofa //
+54 drink	uku, ibi //
+55 eat	he, ho //
+56 bite	iCiko //
+57 see	Cano, ene //
+58 hear	okoto, tiki //
+59 know	isako, nahaibo //
+60 sleep	hiki, neka //
+61 die	iki, nihi //
+62 kill	iki, ilifo //
+63 swim	huba, uba //
+64 fly	meya, iribo //
+65 walk	abi, aliho //
+66 come	hime, isako //
+67 lie	XXX //
+68 sit	hiba //
+69 stand	ete, iribo //
+70 give	huri, yaru //
+71 say	abota, aho //
+72 sun	ela //
+73 moon	aku //
+74 star	Cubobo //
+75 water	ibi //
+76 rain	hukw~e, ibi //
+77 stone	yobo //
+78 sand	XXX //
+79 earth	uti, ike //
+80 cloud	XXX //
+81 smoke	moko //
+82 fire	XXX //
+83 ash	api //
+84 burn	taka, natoya //
+85 path	eye //
+86 mountain	aye //
+87 red	pira //
+88 green	XXX //
+89 yellow	nali //
+90 white	nayo //
+91 black	Cuku, laka //
+92 night	ilake, pilani //
+93 hot	metaba, mela //
+94 cold	patu, iCikosa //
+95 full	XXX //
+96 new	Cale, ele //
+97 good	tera, isa //
+98 round	XXX //
+99 dry	XXX //
+100 name	bisa, mo //

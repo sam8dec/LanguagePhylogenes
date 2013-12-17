@@ -1,0 +1,42 @@
+BRETON{IE.CELTIC|Indo-European,Celtic,Insular,Brythonic@Indo-European,Celtic,NuclearCeltic,TGBCeltic,InsularCeltic,Brythonic,SouthwesternBrythonic}
+ 2   48.00   -3.00      225000   bre   bre
+1 I	mE //
+2 you	tE //
+3 we	ni //
+11 one	inan //
+12 two	dau //
+18 person	dEn //
+19 fish	pEsk //
+21 dog	ki //
+22 louse	lau //
+23 tree	gw~EzEn //
+25 leaf	dElien //
+28 skin	kroxEn //
+30 blood	gw~ad //
+31 bone	askorn //
+34 horn	korn //
+39 ear	skuarn //
+40 eye	lagad //
+41 nose	fri //
+43 tooth	dant //
+44 tongue	ted //
+47 knee	glin //
+48 hand	dorn //
+51 breast	bron //
+53 liver	avu //
+54 drink	Evo* //
+57 see	gw~ElEt //
+58 hear	klEvEt, klEfEt //
+61 die	mErvEl, mErfEl //
+66 come	dont //
+72 sun	hel //
+74 star	stErEdEn //
+75 water	dur //
+77 stone	men //
+82 fire	tan //
+85 path	hEnt //
+86 mountain	mEnEz //
+92 night	noz //
+95 full	len //
+96 new	nEvEz //
+100 name	anv, anf //

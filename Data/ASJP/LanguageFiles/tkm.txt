@@ -1,0 +1,42 @@
+TURKMEN{Alt.TURKIC|Altaic,Turkic,Southern,Turkmenian@Turkic,CommonTurkic,Oghuz-Kipchak-Uyghur,Oghuz,EastOghuz}
+ 1   40.00   58.00     7560560   tkm   tuk
+1 I	men //
+2 you	sen //
+3 we	biz //
+11 one	bir //
+12 two	iki //
+18 person	unsan //
+19 fish	baluk //
+21 dog	it, kepek //
+22 louse	XXX //
+23 tree	bag, agaC //
+25 leaf	yaprak //
+28 skin	deri //
+30 blood	gan //
+31 bone	siNk //
+34 horn	Sah //
+39 ear	gulak //
+40 eye	kez //
+41 nose	burun //
+43 tooth	diS //
+44 tongue	dil //
+47 knee	duz //
+48 hand	el //
+51 breast	gevis //
+53 liver	bagur //
+54 drink	iC //
+57 see	ger //
+58 hear	eSit //
+61 die	el //
+66 come	gel //
+72 sun	gin //
+74 star	yulduz //
+75 water	suv //
+77 stone	daS //
+82 fire	ot //
+85 path	yol //
+86 mountain	dag //
+92 night	gije //
+95 full	dok //
+96 new	%tEze //  loan
+100 name	at //

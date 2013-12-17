@@ -1,0 +1,42 @@
+LAK{NDa.LAK-DARGWA|NorthCaucasian,EastCaucasian,Lak@Nakh-Daghestanian,Daghestanian}
+ 1   42.17   47.17      153170   lak   lbe
+1 I	na //
+2 you	ina //
+3 we	zw~i //
+11 one	ca //
+12 two	k"iwa //
+18 person	%insan, %adamina //  Arabic loan
+19 fish	Cawaq, baluX //
+21 dog	kw~aCi //
+22 louse	nac" //
+23 tree	murx~ //
+25 leaf	C"ap"i //
+28 skin	burCu, kamara //
+30 blood	Xutu, utu //
+31 bone	tark" //
+34 horn	qi //
+39 ear	wiC"i //
+40 eye	ya //
+41 nose	may //
+43 tooth	karCi //
+44 tongue	maz //
+47 knee	nikw~ //
+48 hand	kw~a, Xat" //
+51 breast	qazam //
+53 liver	tilik" //
+54 drink	XX~aC"an, XX~aC"lan //
+57 see	C"alan //
+58 hear	bayan //
+61 die	iwC"an //
+66 come	uC"an //
+72 sun	barX~ //
+74 star	c"ukw~u //
+75 water	Sin //
+77 stone	Caru //
+82 fire	c"u //
+85 path	XXX //
+86 mountain	zuntu //
+92 night	xu //
+95 full	ucusa //
+96 new	c"usa //
+100 name	c"a //

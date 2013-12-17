@@ -1,0 +1,39 @@
+KARACHAY_BALKAR{Alt.TURKIC|Altaic,Turkic,Western,Ponto-Caspian@Turkic,CommonTurkic,Oghuz-Kipchak-Uyghur,Oghuz,Kipchak,WestKipchak}
+ 1   43.50   42.00      310730   krc   krc
+1 I	men
+2 thou	sen
+3 we	biz
+11 one	bir
+12 two	eki
+18 person	%adam // loan
+19 fish	Cabak
+21 dog	it
+22 louse	bit
+23 tree	axaC
+25 leaf	japrak
+28 skin	teri
+30 blood	kan
+31 bone	siyek
+39 ear	kulak
+40 eye	k3z
+41 nose	burun
+43 tooth	tiS
+44 tongue	til
+48 hand	kol
+53 liver	bawur
+54 drink	iC
+57 see	k3r
+58 hear	eSit
+61 die	3l
+66 come	kel
+72 sun	kin
+74 star	jild3z
+75 water	su
+77 stone	taS
+82 fire	ot
+85 road	jol
+86 mountain	taw
+92 night	keCe
+95 full	tolu
+96 new	jaNi
+100 name	at

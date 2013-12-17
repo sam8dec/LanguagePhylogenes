@@ -1,0 +1,42 @@
+ITALIAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Italo-Dalmatian@Indo-European,Italic,Latino-Faliscan,Romance,Italo-WesternRomance,Italo-Dalmatian,ItalianRomance}
+ 1   43.00   12.00    61068677   ifi   ita
+1 I	io //
+2 you	tu //
+3 we	noi //
+11 one	uno //
+12 two	due //
+18 person	persona //
+19 fish	peSe //
+21 dog	kane //
+22 louse	pidokky~o //
+23 tree	albero //
+25 leaf	foLa //
+28 skin	pElle //
+30 blood	saNgwe //
+31 bone	osso //
+34 horn	korno //
+39 ear	orekkyo //
+40 eye	okkyo //
+41 nose	naso //
+43 tooth	dante //
+44 tongue	liNgwa //
+47 knee	jinokkyo //
+48 hand	mano //
+51 breasts	pEtto //
+53 liver	fegato //
+54 drink	bere //
+57 see	ved // (stem)
+58 hear	ud // (stem)
+61 die	mor // (stem)
+66 come	vEn // (stem)
+72 sun	sole //
+74 star	stella //
+75 water	akwa //
+77 stone	pyEtra //
+82 fire	fwoko //
+85 path	sentyaro //
+86 mountain	monta5a //
+92 night	notte //
+95 full	pyEno //
+96 new	nwovo //
+100 name	nome //

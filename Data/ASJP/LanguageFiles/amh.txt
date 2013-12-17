@@ -1,0 +1,102 @@
+AMHARIC{AA.SEMITIC|Afro-Asiatic,Semitic,South,Ethiopian,South,Transversal,Amharic-Argobba@Afro-Asiatic,Semitic,WestSemitic,Ethiosemitic,SouthEthiopic,TransversalSouthEthiopic,Amharic-Argobba}
+ 1   10.00   38.00    21811560   amh   amh
+1 I	3ne //
+2 you	ant~3, anCi //
+3 we	a5a //
+4 this	y3h, y3h3C //
+5 that	ya, yaC //
+6 who	man, 3n3man //
+7 what	m3nd~3r, m3nd~3n //
+8 not	y3l3m //
+9 all	hulu //
+10 many	b3zu, ayale //
+11 one	and~ //
+12 two	hul3t //
+13 big	t3l3k", talak" //
+14 long	r3jim //
+15 small	t3n3S, tanaS //
+16 woman	set //
+17 man	s3w, w3nd~ //
+18 person	s3w //
+19 fish	asa //
+20 bird	w3f //
+21 dog	w3Sa //
+22 louse	k"3mal //
+23 tree	zaf //
+24 seed	z3ra //
+25 leaf	k"3t"3l //
+26 root	s3r //
+27 bark	k"3fit //
+28 skin	k"oda //
+29 flesh	s3ga //
+30 blood	d3m //
+31 bone	at"3nt //
+32 grease	k"3bat //
+33 egg	3nk"ulal //
+34 horn	k"3nd~ //
+35 tail	j3rat //
+36 feather	laba //
+37 hair	t"3gur, s"3gur //
+38 head	wana //
+39 ear	joro //
+40 eye	ayn //
+41 nose	af3nC"a //
+42 mouth	af //
+43 tooth	t"3rs //
+44 tongue	m3las //
+45 claw	t"3f3r //
+46 foot	3g3r //
+47 knee	gulb3t //
+48 hand	3j //
+49 belly	hod //
+50 neck	ang~3t //
+51 breasts	t"ut //
+52 heart	l3b //
+53 liver	gub3t //
+54 drink	t"3t"a //
+55 eat	b3la //
+56 bite	n3k3s3 //
+57 see	ay3 //
+58 hear	s3ma //
+59 know	aw3k"3 //
+60 sleep	t35a //
+61 die	mot3, ar3f3 //
+62 kill	g3d3la //
+63 swim	wa53 //
+64 fly	b3r3r3 //
+65 walk	S35a //
+66 come	m3t"a //
+67 lie	t3gad3m3 //
+68 sit	t3k"3m3t"3, k"uC" al3 //
+69 stand	ak"om3 //
+70 give	s3t"3 //
+71 say	al3, n3g3r3 //
+72 sun	s"3hay //
+73 moon	C"3r3k"a //
+74 star	kok3b //
+75 water	w3ha //
+76 rain	z3nab //
+77 stone	d3ng~iya, d3ng~ay //
+78 sand	aS3wa //
+79 earth	af3r, m3ret //
+80 cloud	d3m3na //
+81 smoke	t"is, C"3s //
+82 fire	3sat //
+83 ash	am3d //
+84 burn	ak"at"3l3 //
+85 path	m3ng~3d //
+86 mountain	t3rara, gara //
+87 red	k"3y, k"3la //
+88 green	ar3ngw$ade //
+89 yellow	b3C"a //
+90 white	n3C" //
+91 black	t"3k"ur //
+92 night	lelit //
+93 hot	mak"at //
+94 cold	b3rd //
+95 full	mulu //
+96 new	adis //
+97 good	t"3ru, d3hna //
+98 round	k3b //
+99 dry	d3r3k" //
+100 name	s3m //

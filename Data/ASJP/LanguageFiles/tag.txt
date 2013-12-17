@@ -1,0 +1,102 @@
+TAGALOG{An.MESO-PHILIPPINE|Austronesian,Malayo-Polynesian,Philippine,GreaterCentralPhilippine,CentralPhilippine,Tagalog@Austronesian,NuclearAustronesian,Malayo-Polynesian,GreaterCentralPhilippine,CentralPhilippine,Tagalog-Filipino}
+ 1   15.00  121.00    24216200   tag   tgl
+1 I	ako //
+2 you	ikaw, ka //
+3 we	tayo, kami //
+4 this	ito //
+5 that	iyan, iyon //
+6 who	sino //
+7 what	ano //
+8 not	hindi //
+9 all	lahat //
+10 many	marami //
+11 one	isa //
+12 two	dalawa //
+13 big	malaki //
+14 long	mahaba //
+15 small	malit, munti //
+16 woman	babae //
+17 man	lalaki //
+18 person	tao //
+19 fish	isda //
+20 bird	ibon //
+21 dog	aso //
+22 louse	kuto //
+23 tree	punuNkahoy, puno //
+24 seed	binhi, buto //
+25 leaf	dahon //
+26 root	ugat //
+27 bark	balat N puno //
+28 skin	balat //
+29 flesh	karne, laman //
+30 blood	dugo //
+31 bone	buto //
+32 grease	taba //
+33 egg	itlog //
+34 horn	saNay //
+35 tail	buntoto //
+36 feather	balahibo //
+37 hair	buhok //
+38 head	ulo //
+39 ear	teNa, taiNa //
+40 eye	mata //
+41 nose	iloN //
+42 mouth	buNaNa, bibig //
+43 tooth	Nipin //
+44 tongue	dila //
+45 claw	kuko //
+46 foot	pa //
+47 knee	tuhod //
+48 hand	kamay //
+49 belly	tiyan //
+50 neck	leg //
+51 breasts	susu //
+52 heart	puso //
+53 liver	atay //
+54 drink	inom //
+55 eat	kain //
+56 bite	kagat //
+57 see	tiNin, kita //
+58 hear	dinig, kinig //
+59 know	alam //
+60 sleep	tulog //
+61 die	patay //
+62 kill	patay, paslaN //
+63 swim	laNoy //
+64 fly	lipad //
+65 walk	lakad //
+66 come	datiN //
+67 lie	higa, hilata //
+68 sit	upo //
+69 stand	tayo //
+70 give	bigay //
+71 say	sabi //
+72 sun	araw //
+73 moon	buwan //
+74 star	bituin //
+75 water	tubig //
+76 rain	ulan //
+77 stone	batu //
+78 sand	buhaNin //
+79 earth	lupa //
+80 cloud	alapap, ulap //
+81 smoke	usok, aso //
+82 fire	apoy //
+83 ash	abo //
+84 burn	sunogin //
+85 path	dan, kalsada //
+86 mountain	bundok //
+87 red	pula //
+88 green	berde, luntian //
+89 yellow	dilaw //
+90 white	puti //
+91 black	itim //
+92 night	gabi //
+93 hot	mainit //
+94 cold	malamig //
+95 full	puno //
+96 new	bago //
+97 good	mabuti //
+98 round	bilog //
+99 dry	tuyo //
+100 name	paNalan, Nalan //

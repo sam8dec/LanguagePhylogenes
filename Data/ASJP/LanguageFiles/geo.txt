@@ -1,0 +1,42 @@
+GEORGIAN{Krt.KARTVELIAN|Kartvelian,Georgian@Kartvelian,Georgian-Zan,Georgic}
+ 3   42.00   44.00     4237710   geo   kat
+1 I	mE //
+2 you	SEn //
+3 we	Chv$En //
+11 one	Erth~i //
+12 two	ori //
+18 person	p"iri, k"ach~i //
+19 fish	th~Evzi //
+21 dog	cali //
+22 louse	t"ili //
+23 tree	xE //
+25 leaf	ph~oth~oli, ph~urch~Eli //
+28 skin	t"q"avi, k"ani //
+30 blood	sisx~li //
+31 bone	cv~ali //
+34 horn	rkh~a //
+39 ear	q"uri //
+40 eye	thv$ali //
+41 nose	cxv$iri //
+43 tooth	k"bili //
+44 tongue	Ena //
+47 knee	muli //
+48 hand	xEli //
+51 breast	mk"Erdi //
+53 liver	xv~icli //
+54 drink	sma //
+57 see	xEdv~a //
+58 hear	smEna //
+61 die	k"v~doma, gardachv$alEba //
+66 come	mosv~la //
+72 sun	mzE //
+74 star	varsk"v~lavi //
+75 water	c"q"ali //
+77 stone	khv$a //
+82 fire	ch~Echx$li, ari //
+85 path	bilik"i, gza //
+86 mountain	mth~a //
+92 night	xamE //
+95 full	savsE, sruli //
+96 new	axali //
+100 name	gv~ari, saxEli //

@@ -1,0 +1,42 @@
+UDMURT{Ura.PERMIC|Uralic,Permian@Uralic,Permian}
+ 1   57.50   52.50      339800   udm   udm
+1 I	mon //
+2 you	ton //
+3 we	mi, asy~meos //
+11 one	odig //
+12 two	kik //
+18 person	%ady~ami // loan from Arabic
+19 fish	cy~orig //
+21 dog	puni //
+22 louse	tey //
+23 tree	pispu //
+25 leaf	kuar //
+28 skin	ku //
+30 blood	vir //
+31 bone	li //
+34 horn	%sy~ur //  probably loan, cf. similar form in Kildin Saami (SW)
+39 ear	pely~, peL //
+40 eye	sy~in //
+41 nose	nir //
+43 tooth	piny~, pi5 //
+44 tongue	kil //
+47 knee	pidy~es //
+48 hand	ki //
+51 breast	noni, gady~ //
+53 liver	mus //
+54 drink	%yu //  probably loan, cf. similar form in Kildin Saami (SW)
+57 see	%adjy~ //  probably loan, cf. similar form in Kildin Saami (SW)
+58 hear	kil //
+61 die	kul //
+66 come	likt //
+72 sun	Sundi //
+74 star	kizy~ily~i, kizy~iLi //
+75 water	vu //
+77 stone	iz //
+82 fire	til //
+85 path	sy~ures //
+86 mountain	gurezy~ //
+92 night	uy //
+95 full	tiraz, bides //
+96 new	vily~, viL //
+100 name	%ny~im, 5im //  probably loan, cf. similar form in Kildin Saami (SW)

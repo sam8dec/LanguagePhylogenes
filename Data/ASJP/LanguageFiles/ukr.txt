@@ -1,0 +1,42 @@
+UKRAINIAN{IE.SLAVIC|Indo-European,Slavic,East@Indo-European,Balto-Slavic,Slavic,EastSlavic,Ukrainian-Rusyn}
+ 1   49.00   33.00    36028490   ukr   ukr
+1 I	yo //
+2          you	ti, vi //
+3          we	mi //
+11 one	odin //
+12 two	dvo //
+18 person	Ludino //
+19 fish	ribo //
+21 dog	pEs, soboko //
+22 louse	voSo //
+23 tree	dErEvo //
+25 leaf	list //
+28 skin	Skiro //
+30 blood	krow //
+31 bone	kistko //
+34 horn	ry~ih //
+39 ear	vuxo //
+40 eye	oko //
+41 nose	nis //
+43 tooth	zub //
+44 tongue	yazik //
+47 knee	koLino //
+48 hand	ruko //
+51 breast	hrudi //
+53 liver	piCinko //
+54 drink	piti //
+57 see	baCiti //
+58 hear	Cuti //
+61 die	wmirati //
+66 come	priti //
+72 sun	sonc~E //
+74 star	zy~irko, zory~o //
+75 water	vodo //
+77 stone	komi5 //
+82 fire	voho5 //
+85          road	doroho, SLox //
+86 mountain	horo //
+92 night	niC //
+95 full	powniy //
+96 new	noviy //
+100 name	imyo //

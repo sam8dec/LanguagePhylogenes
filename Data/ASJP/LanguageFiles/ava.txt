@@ -1,0 +1,42 @@
+AVAR{NDa.AVAR-ANDIC-TSEZIC|NorthCaucasian,EastCaucasian,Avar-Andic,Avar@Nakh-Daghestanian,Daghestanian,Avar-Andic-Tsezic}
+ 1   42.50   46.50      761960   ava   ava
+1 I	dun //
+2 you	mun //
+3 we	niL //
+11 one	so, co //
+12 two	k"igo //
+18 person	Ci //
+19 fish	CuXa //
+21 dog	hw~E, hoy //
+22 louse	nac" //
+23 tree	Xw~Et" //
+25 leaf	t"amaX //
+28 skin	qal, t"om //
+30 blood	bi //
+31 bone	ratL"a //
+34 horn	tL~ar, Lar //
+39 ear	Xin //
+40 eye	bEr //
+41 nose	mEXEr //
+43 tooth	ca, goZo //
+44 tongue	mac" //
+47 knee	naku //
+48 hand	kw~Er //
+51 breast	kErEn, kEkE //
+53 liver	t"ul //
+54 drink	hEq"EzE //
+57 see	ixizE //
+58 hear	aXizE, XEnEkizE //
+61 die	Xw~EzE //
+66 come	aC"inE //
+72 sun	baq" //
+74 star	c"w~a //
+75 water	Lin, Lim //
+77 stone	gamaC", hEc"o //
+82 fire	c"a, c"o //
+85 path	suqX~maqX~ //
+86 mountain	mEXEr //
+92 night	sordo //
+95 full	c"ura //
+96 new	c"iya //
+100 name	c"ar //

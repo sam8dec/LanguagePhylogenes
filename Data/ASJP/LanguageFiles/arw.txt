@@ -1,0 +1,42 @@
+WESTERN_ARMENIAN{IE.ARMENIAN|Indo-European,Armenian@Indo-European,Armenic}
+ 1   38.50   43.50     5924320   arw   hye
+1 I	yes //
+2 you	tun //
+3 we	menk, meNk //
+11 one	meg //
+12 two	yergu //
+18 person	anc, mart //
+19 fish	cug //
+21 dog	Sun //
+22 louse	voCil //
+23 tree	car //
+25 leaf	derev //
+28 skin	maSg, gaSi //
+30 blood	ary~un //
+31 bone	vosgor //
+34 horn	boz, godoS //
+39 ear	aganC //
+40 eye	aCk //
+41 nose	kit //
+43 tooth	agra, adam //
+44 tongue	lezu //
+47 knee	cung, cuNg //
+48 hand	cerk //
+51 breast	gurck, cic //
+53 liver	ly~art //
+54 drink	x3me //
+57 see	desne //
+58 hear	l3se //
+61 die	merni, merac //
+66 come	ka //
+72 sun	arev //
+74 star	asd3x //
+75 water	Cur //
+77 stone	kar, Zar //
+82 fire	grag //
+85 path	jampa, arahed //
+86 mountain	ler, p3lur //
+92 night	kiSer //
+95 full	lecun, li //
+96 new	nor //
+100 name	anun //

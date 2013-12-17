@@ -1,0 +1,102 @@
+BASQUE{Bas.BASQUE|Languageisolate2@Basque}
+ 3   43.00   -3.00      657872   bqb   eus
+1 I	nik, neuk //
+2 you	zuek, hik //
+3 we	gu, guk //
+4 this	hauSe, honek //
+5 that	hori, hura //
+6 who	nork, norcuk //
+7 what	zer, zein //
+8 not	ez //
+9 all	guztiz, guztiak //
+10 many	asko, hamaikoCo //
+11 one	bat //
+12 two	bi, biga //
+13 big	haundi, handi //
+14 long	luze //
+15 small	Ciki, Sehe //
+16 woman	andre, emakume //
+17 man	gizon, gizaseme //
+18 person	gizaki, lagun //
+19 fish	arrain, arranca //
+20 bird	Cori //
+21 dog	zakur, Cakur //
+22 louse	zorri //
+23 tree	zuhaic, arbola //
+24 seed	bihi, hazi //
+25 leaf	hosto, orri //
+26 root	erreboil, sustrai //
+27 bark	azal //
+28 skin	azal, minc //
+29 flesh	haragi, okela //
+30 blood	odol //
+31 bone	hezur //
+32 grease	gancu, gurin //
+33 egg	arraulca //
+34 horn	adar, turutu //
+35 tail	buztan, isac //
+36 feather	luma //
+37 hair	ile, ilage //
+38 head	buru, kasko //
+39 ear	belarri //
+40 eye	begi, be //
+41 nose	sudur, mutur //
+42 mouth	aho, mutur //
+43 tooth	horc, hagin //
+44 tongue	mihi, hizkunca //
+45 claw	azkazal, hacazal //
+46 foot	oin, hanka //
+47 knee	belaun //
+48 hand	esku, bosteko //
+49 belly	sabel, tripa //
+50 neck	lepo, idun //
+51 breasts	diti, bular //
+52 heart	bihoc, bihoz //
+53 liver	gibel //
+54 drink	edan //
+55 eat	yanari //
+56 bite	hozka , haginka //
+57 see	ikusi //
+58 hear	encun, adi //
+59 know	yakin, ezagu //
+60 sleep	lo, lotan //
+61 die	hil, azkenarnas //
+62 kill	hilarazi, sarraski //
+63 swim	igerika //
+64 fly	hegan , hegaz //
+65 walk	ibili, bide //
+66 come	etorri //
+67 lie	ecan //
+68 sit	yarri, mahaiera //
+69 stand	zutik , tinte //
+70 give	eman, oihuka //
+71 say	esan, minco izan //
+72 sun	eguzki, eki //
+73 moon	ilargi //
+74 star	izar, astro //
+75 water	ur //
+76 rain	euri //
+77 stone	harri, haic //
+78 sand	hondar, harea //
+79 earth	lurbira //
+80 cloud	hodei //
+81 smoke	pipaldi //
+82 fire	su, sute //
+83 ash	hauc, errauc //
+84 burn	erre, sumin //
+85 path	basabide, bideSka //
+86 mountain	mendi //
+87 red	gorri //
+88 green	orlegi, berde //
+89 yellow	hori //
+90 white	zuri //
+91 black	belc //
+92 night	gau, arrac //
+93 hot	bero, sukardun //
+94 cold	odolgabe, hoc //
+95 full	beterik, beteta //
+96 new	berri //
+97 good	on, zinco //
+98 round	biribil, totolo //
+99 dry	lehor, ihar //
+100 name	izen //

@@ -1,0 +1,102 @@
+MAORI{An.OCEANIC|Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,CentralPacific,EastFijian-Polynesian,Polynesian,Nuclear,East,Central,Tahitic@Austronesian,NuclearAustronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,CentralPacificlinkage,Tokelau-Fijian,Polynesian,NuclearPolynesian,Ellicean,EasternPolynesian,CentralEasternPolynesian,Tahitictic}
+ 1  -40.00  176.00       60660   mao   mri
+1  I	au, ahau //
+2  you	koutou //
+3  we	tatau //
+4 this	tenei //
+5 that	tera, tena //
+6 who	kowai //
+7 what	heaha //
+8 not	kihai, kahore //
+9 all	katoa //
+10 many	nui, rahi //
+11 one	tahi //
+12 two	rua //
+13 big	nui, rahi //
+14 long	roa, roroa //
+15 small	pakupaku, poniponi //
+16 woman	wahine //
+17 man	taNata //
+18 person	taNata //
+19 fish	ika //
+20 bird	manu //
+21 dog	kuri //
+22 louse	kutu //
+23 tree	rakau //
+24 seed	kakano //
+25 leaf	rau //
+26 root	paiaka //
+27 bark	pakirikiri //
+28 skin	kiri //
+29 flesh	XXX //
+30 blood	toto //
+31 bone	poroiwi //
+32 grease	XXX //
+33 egg	heki //
+34 horn	XXX //
+35 tail	whiore //
+36 feather	huruhuru //
+37 hair	makawe //
+38 head	mahuNa //
+39 ear	tariNa //
+40 eye	mata, kanohi //
+41 nose	ihu //
+42 mouth	waha //
+43 tooth	niho //
+44 tongue	arero //
+45 claw	XXX //
+46 foot	waewae //
+47 knee	XXX //
+48 hand	riNariNa //
+49 belly	puku //
+50 neck	kaki //
+51 breast	XXX //
+52 heart	manawa //
+53 liver	ate //
+54 drink	inu //
+55 eat	kai //
+56 bite	Nau //
+57 see	kite, titiro //
+58 hear	roNo //
+59 know	mohio //
+60 sleep	moe //
+61 die	mate, hemo //
+62 kill	patu, kohuru //
+63 swim	kaukau //
+64 fly	rere //
+65 walk	haere, waka //
+66 come	haramai, naumai //
+67 lie	takoto //
+68 sit	noho //
+69 stand	tu //
+70 give	haotu //
+71 say	XXX //
+72 sun	ra //
+73 moon	XXX //
+74 star	whetu //
+75 water	wai //
+76 rain	ua //
+77 stone	kohatu //
+78 sand	oneone //
+79 earth	aowhenua //
+80 cloud	kapua //
+81 smoke	auahi //
+82 fire	ahi //
+83 ash	Narehu //
+84 burn	katahu //
+85 path	huarahi //
+86 mountain	mauNa //
+87 red	whero, kura //
+88 green	kirini //
+89 yellow	jaro //
+90 white	mahina // of hair
+91 black	paNo //
+92 night	popouri //
+93 hot	XXX //
+94 cold	makariri, maiaeke //
+95 full	XXX //
+96 new	hou //
+97 good	pai //
+98 round	XXX //
+99 dry	maroke, mimiti //
+100 name	iNoa //

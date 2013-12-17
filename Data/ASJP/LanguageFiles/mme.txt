@@ -1,0 +1,42 @@
+MEADOW_MARI{Ura.MARI|Uralic,Mari@Uralic,Mari}
+ 2   57.00   48.00      397090   mme   mhr
+1 I	m3y //
+2 you	t3y //
+3 we	me //
+11 one	ik, ikte //
+12 two	kok, kok3t //
+18 person	a8eme, yeN //
+19 fish	kol //
+21 dog	piy //
+22 louse	tiy //
+23 tree	puSeNx~e //
+25 leaf	%l3StaS //  probably loan, cf. similar form in Kildin Saami (SW)
+28 skin	kobaSte //
+30 blood	bir //
+31 bone	lu //
+34 horn	tike //
+39 ear	p3l3S //
+40 eye	SinCy~a //
+41 nose	ner //
+43 tooth	piy //
+44 tongue	y3lme //
+47 knee	%pulbuy //  probably loan, cf. similar form in Kildin Saami (SW)
+48 hand	ki8 //
+51 breast	oN //
+53 liver	mokS //
+54 drink	yi //
+57 see	%uZ //  probably loan, cf. similar form in Kildin Saami (SW)
+58 hear	kol //
+61 die	kol //
+66 come	tol //
+72 sun	keCy~e //
+74 star	Si83r //
+75 water	bi8 //
+77 stone	ki //
+82 fire	tul //
+85 path	yolx~orno, korno //
+86 mountain	kur3k //
+92 night	yi8 //
+95 full	tiCy~ //
+96 new	XXX //
+100 name	%lim //  probably loan, cf. similar form in Kildin Saami (SW)

@@ -1,0 +1,42 @@
+URDU{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,Centralzone,WesternHindi,Hindustani@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanCentralzone,SubcontinentalCentralIndo-Aryan,WesternHindi,Hindustani}
+ 1   25.00   67.00    63431800   urd   urd
+1 I	mE* //
+2 you	tum, tu //
+3 we	h3m //
+11 one	ek //
+12 two	do //
+18 person	%m3rd // loan from Persian
+19 fish	m3Ch~li //
+21 dog	kuta //
+22 louse	XXX //
+23 tree	d3r3t, per //
+25 leaf	p3ta, p3ti //
+28 skin	jild //
+30 blood	xun //
+31 bone	h3di //
+34 horn	siNg //
+39 ear	kan //
+40 eye	a*kh~ //
+41 nose	nak //
+43 tooth	da*t //
+44 tongue	z3ban //
+47 knee	gh~utna //
+48 hand	bazu //
+51 breast	Ch~ati //
+53 liver	jig3r //
+54 drink	pi //
+57 see	dekh~ //
+58 hear	su //
+61 die	m3r //
+66 come	a //
+72 sun	sur3j //
+74 star	tara, sitara //
+75 water	pani //
+77 stone	p3th~3r //
+82 fire	ag //
+85 path	rasta //
+86 mountain	p3har //
+92 night	rat, S3b //
+95 full	bh~3rna //
+96 new	nea //
+100 name	nam //

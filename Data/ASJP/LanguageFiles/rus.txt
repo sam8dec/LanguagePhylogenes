@@ -1,0 +1,102 @@
+RUSSIAN{IE.SLAVIC|Indo-European,Slavic,East@Indo-European,Balto-Slavic,Slavic,EastSlavic}
+ 1   56.00   38.00   161727650   rus   rus
+1 I	ya //
+2 you	t3, v3 //
+3 we	m3 //
+4 this	Et3 //
+5 that	to //
+6 who	kto //
+7 what	Sto //
+8 not	ny~E //
+9 all	fsy~E //
+10 many	mnogy~i //
+11 one	ody~in //
+12 two	dva //
+13 big	boly~Soy //
+14 long	dly~inn3y //
+15 small	maly~Eny~ky~iy //
+16 woman	ZEny~Sy~in3 //
+17 man	muZCin3 //
+18 person	Cilovy~Ek //
+19 fish	r3b3 //
+20 bird	pty~ic3 //
+21 dog	sobak3, py~os //
+22 louse	voS //
+23 tree	dy~Ery~Ev3 //
+24 seed	sy~Emy~a, sy~imy~ina //
+25 leaf	ly~ist //
+26 root	kory~iny~ //
+27 bark	kora //
+28 skin	koZ3 //
+29 flesh	my~as3 //
+30 blood	krovy~ //
+31 bone	kosy~ty~ //
+32 grease	Z3r //
+33 egg	yayco //
+34 horn	rog //
+35 tail	xvost //
+36 feather	py~iro //
+37 hair	vol3s3 //
+38 head	g3lova //
+39 ear	ux3 //
+40 eye	glaz //
+41 nose	nos //
+42 mouth	rot //
+43 tooth	zub //
+44 tongue	yaz3k //
+45 claw	nog3ty~ //
+46 foot	stopa //
+47 knee	koly~En3 //
+48 hand	ruka, ky~isy~ty~ //
+49 belly	Z3vot //
+50 neck	SEy3 //
+51 breasts	grudy~
+52 heart	sy~3rtc3 //
+53 liver	py~ECiny~
+54 drink	py~i //
+55 eat	yEsy~ //
+56 bite	gr3sy~, kusa //
+57 see	vy~idy~E //
+58 hear	sl3Sa //
+59 know	zna //
+60 sleep	spa //
+61 die	umy~ira //
+62 kill	uby~iva //
+63 swim	plava //
+64 fly	ly~Eta //
+65 walk	xody~i, ity~i
+66 come	pry~ixody~i, pry~iy //
+67 lie	ly~iZa //
+68 sit	sy~idy~E //
+69 stand	stoya //
+70 give	da //
+71 say	govory~i //
+72 sun	sonc3 //
+73 moon	luna //
+74 star	zvy~Ezda //
+75 water	voda //
+76 rain	doZdy~ //
+77 stone	kamy~iny~ //
+78 sand	py~isok //
+79 earth	zy~Emly~a //
+80 cloud	tuC3, oblaka //
+81 smoke	d3m //
+82 fire	ogony~ //
+83 ash	zola, py~Epy~il //
+84 burn	ZEC, paly~i //
+85 path	dorog3, puty~ //
+86 mountain	gora //
+87 red	krasn //
+88 green	zy~ily~on //
+89 yellow	Zolt //
+90 white	by~El //
+91 black	Corn //
+92 night	noC //
+93 hot	gary~aC //
+94 cold	xolodn
+95 full	poln //
+96 new	nov //
+97 good	xoroS, dobr //
+98 round	krugl //
+99 dry	suxo //
+100 name	imy~a //

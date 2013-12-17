@@ -1,0 +1,102 @@
+MANDARIN{ST.CHINESE|Sino-Tibetan,Chinese@Sino-Tibetan,Sinitic,NorthernChinese,Mandarinic}
+ 1   34.00  110.00   847755970   kug   cmn
+1 I	wo //
+2 you	ni men //
+3 we	wo men //
+4 this	cu, Ce //
+5 that	na //
+6 who	Swei, ho jen //
+7 what	Sen mo, cen yaN te //
+8 not	buh //
+9 all	Cy~uan buh //
+10 many	CuN to te //
+11 one	i //
+12 two	el //
+13 big	ta te //
+14 long	CarN //
+15 small	Seau //
+16 woman	fuh neu //
+17 man	nan ren //
+18 person	jen //
+19 fish	yu //
+20 bird	neau //
+21 dog	gou //
+22 louse	Sy~c //
+23 tree	Suh //
+24 seed	cy~y //
+25 leaf	yec //
+26 root	gen //
+27 bark	Su pi //
+28 skin	py~i fu //
+29 flesh	jou //
+30 blood	Siueh //
+31 bone	gw~utou //
+32 grease	yu Cih //
+33 egg	ji dan //
+34 horn	Ciao //
+35 tail	woeiba //
+36 feather	yumao //
+37 hair	tour fa //
+38 head	tour //
+39 ear	elduo //
+40 eye	yean jiN //
+41 nose	by~ic //
+42 mouth	coei //
+43 tooth	ya Cy~y //
+44 tongue	Sertou //
+45 claw	Cua //
+46 foot	jeau //
+47 knee	Si //
+48 hand	Sou //
+49 belly	duc //
+50 neck	borc //
+51 breasts	SioN pw~u //
+52 heart	Sin canq //
+53 liver	gan canq //
+54 drink	he //
+55 eat	Cy //
+56 bite	yao //
+57 see	kan jian //
+58 hear	tiN //
+59 know	jen Sih //
+60 sleep	Suey jiaw //
+61 die	su, yin Sih //
+62 kill	Sa su //
+63 swim	you yeoN //
+64 fly	fei //
+65 walk	cou //
+66 come	lai //
+67 lie	taN hsia //
+68 sit	couh //
+69 stand	jan //
+70 give	gei //
+71 say	Suo //
+72 sun	tay yaN //
+73 moon	yueh lianq //
+74 star	SiNSiN //
+75 water	Soei //
+76 rain	yeu //
+77 stone	Sy~rtou //
+78 sand	Sac //
+79 earth	dih Cy~ou //
+80 cloud	yun cae //
+81 smoke	ian //
+82 fire	huo //
+83 ash	huai Su //
+84 burn	Sau //
+85 path	hsiao lu //
+86 mountain	San //
+87 red	horN //
+88 green	liuh Se //
+89 yellow	hw~aN //
+90 white	bair //
+91 black	hei //
+92 night	woanSanq //
+93 hot	reh //
+94 cold	harn leN //
+95 full	CoN man //
+96 new	Sin //
+97 good	hao //
+98 round	yuan //
+99 dry	gan caw //
+100 name	miNc //

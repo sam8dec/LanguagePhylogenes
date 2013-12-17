@@ -1,0 +1,102 @@
+NEPALI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,Northernzone,EasternPahari@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthernzone,EasternPahari}
+ 1   28.00   85.00    14410100   nep   npi
+1 I	ma* //
+2 you	XXX //
+3 we	XXX //
+4 this	yo //
+5 that	ty~o //
+6 who	XXX //
+7 what	XXX //
+8 not	hoina //
+9 all	sab //
+10 many	derai, anek //
+11 one	ek //
+12 two	XXX //
+13 big	tulo //
+14 long	lamo //
+15 small	sano //
+16 woman	aimai, stri //
+17 man	manCe, manis //
+18 person	jana, manCe //
+19 fish	maCa //
+20 bird	Cara, pansi //
+21 dog	kukur //
+22 louse	jumra //
+23 tree	ruk //
+24 seed	biu, gera //
+25 leaf	pat //
+26 root	jara //
+27 bark	bokar //
+28 skin	Cala //
+29 flesh	masu //
+30 blood	ragat //
+31 bone	har //
+32 grease	boso //
+33 egg	kukra ko pul //
+34 horn	si*g //
+35 tail	puCCar //
+36 feather	po*k, butla //
+37 hair	kes, bal //
+38 head	kapal, tauko //
+39 ear	kan //
+40 eye	anka //
+41 nose	nak //
+42 mouth	muk //
+43 tooth	da*t //
+44 tongue	jibro //
+45 claw	na*gra, pa*ja //
+46 foot	kutta, pau //
+47 knee	gu*ra //
+48 hand	hat //
+49 belly	bunri, pet //
+50 neck	gala, giCro //
+51 breasts	Catu, dut //
+52 heart	mutu //
+53 liver	kalejo //
+54 drink	ka*nu //
+55 eat	ka*nu //
+56 bite	toknu //
+57 see	dek, her //
+58 hear	sunnu //
+59 know	jan, buj //
+60 sleep	suti ja* //
+61 die	XXX //
+62 kill	marnu //
+63 swim	paur //
+64 fly	urnu //
+65 walk	hin, hi*r //
+66 come	au*nu //
+67 lie	sut, dalka //
+68 sit	basnu //
+69 stand	ubi*, taro //
+70 give	di*nu //
+71 say	ban //
+72 sun	gam //
+73 moon	jun //
+74 star	tara //
+75 water	pani, jal //
+76 rain	jari, pani //
+77 stone	du*ga //
+78 sand	baluwa //
+79 earth	mato //
+80 cloud	badal, du*ri //
+81 smoke	duwa*n //
+82 fire	ago //
+83 ash	karani //
+84 burn	darau*, jalau* //
+85 path	Corbato //
+86 mountain	pahar //
+87 red	rato //
+88 green	hariyo //
+89 yellow	pahe*lo //
+90 white	seto //
+91 black	kalo //
+92 night	rat //
+93 hot	niyano, aul //
+94 cold	jaro //
+95 full	bareko, puro //
+96 new	naya, naulo //
+97 good	ramro, jati //
+98 round	gol, batulo //
+99 dry	sukeko //
+100 name	nau* //

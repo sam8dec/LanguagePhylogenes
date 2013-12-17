@@ -1,0 +1,42 @@
+GAELIC_SCOTTISH{IE.CELTIC|Indo-European,Celtic,Insular,Goidelic@Indo-European,Celtic,NuclearCeltic,TGBCeltic,InsularCeltic,Goidelic,EasternGoidelic}
+ 1   57.00   -4.00       63130   gae   gla
+1 I	mi //
+2 you	hu //
+3 we	Si5 //
+11 one	unx~ //
+12 two	ta //
+18 person	tu5E //
+19 fish	i3sk //
+21 dog	kh~u //
+22 louse	my~i3l //
+23 tree	kh~rx~uv //
+25 leaf	tuLak //
+28 skin	kh~rx~akhy$enx~, kh~rx~aTh~enx~ //
+30 blood	fuL //
+31 bone	kh~nx~av //
+34 horn	axarx~xk~ //
+39 ear	kh~lu3s //
+40 eye	suL //
+41 nose	srx~onx~ //
+43 tooth	fy~3kh~EL //
+44 tongue	Ch~aNga //
+47 knee	klunx~ //
+48 hand	lav //
+51 breast	khy$ix, Th~ix //
+53 liver	axa //
+54 drink	ol //
+57 see	fakhy$ //
+58 hear	kh~lu5 //
+61 die	pasEx //
+66 come	hy~iky~, hy~iT //
+72 sun	krx~i3nx~ //
+74 star	rx~iu*nx~aky~, rx~iu*nx~aT //
+75 water	uSky~E, uSTE //
+77 stone	kh~lax //
+82 fire	Ch~e5E //
+85 path	rx~ahaj //
+86 mountain	py~enx~ //
+92 night	oxE //
+95 full	lanx~ //
+96 new	urx~, nx~u3y //
+100 name	a53m //

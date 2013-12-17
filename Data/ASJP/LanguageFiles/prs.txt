@@ -1,0 +1,102 @@
+PERSIAN{IE.IRANIAN|Indo-European,Indo-Iranian,Iranian,Western,Southwestern,Persian@Indo-European,Indo-Iranian,Iranian,WesternIranian,SouthwesternIranian,Farsic-CaucasianTat,Farsic}
+ 1   32.00   54.00    47045100   prs   pes
+1 I	man //
+2 you	to //
+3 we	m3 //
+4 this	in //
+5 that	n3 //
+6 who	ki //
+7 what	Ci //
+8 not	na //
+9 all	hame //
+10 many	xeyli
+11 one	yek
+12 two	do
+13 big	bozorg
+14 long	der3z
+15 small	kuCik
+16 woman	zan
+17 man	mard
+18 person	%ens3n // loan from Arabic
+19 fish	m3hi
+20 bird	parande
+21 dog	sag
+22 louse	SepeS
+23 tree	deraxt
+24 seed	toxm
+25 leaf	barg
+26 root	riSe
+27 bark	pust
+28 skin	pust
+29 flesh	guSt
+30 blood	xun
+31 bone	ostoxun
+32 grease	roGan
+33 egg	toxm
+34 horn	S3x
+35 tail	dom
+36 feather	par
+37 hair	mu
+38 head	sar
+39 ear	guS
+40 eye	CeSm
+41 nose	dam3G
+42 mouth	dahan
+43 tooth	dand3n
+44 tongue	zab3n
+45 claw	panje
+46 foot	p3
+47 knee	z3nu
+48 hand	dast
+49 belly	Sekam
+50 neck	gardan
+51 breasts	pestun
+52 heart	Galb
+53 liver	jegar
+54 drink	xord
+55 eat	xord
+56 bite	gazid
+57 see	did
+58 hear	Senid
+59 know	dunest
+60 sleep	x3bid
+61 die	mord
+62 kill	koSt
+63 swim	Sen3 kard
+64 fly	parv3z kard
+65 walk	r3h raft
+66 come	3mad
+67 lie	der3z keSid
+68 sit	neSast
+69 stand	ist3d
+70 give	d3d
+71 say	goft
+72 sun	xorSid
+73 moon	m3h
+74 star	setare
+75 water	3b
+76 rain	b3run
+77 stone	sang
+78 sand	Sen
+79 earth	zamin
+80 cloud	abr
+81 smoke	dud
+82 fire	3teS
+83 ash	x3kestar
+84 burn	suxt
+85 path	rah
+86 mountain	kuh
+87 red	Germez
+88 green	sabz
+89 yellow	zard
+90 white	sefid
+91 black	si3h
+92 night	Sab
+93 hot	garm
+94 cold	sard
+95 full	por
+96 new	t3zeh
+97 good	xub
+98 round	gerd
+99 dry	xoSk
+100 name	esm

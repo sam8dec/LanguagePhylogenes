@@ -1,0 +1,42 @@
+FULA{NC.NORTHERN_ATLANTIC|Niger-Congo,Atlantic-Congo,Atlantic,Northern,Senegambian,Fula-Wolof,Fula,Western@Atlantic-Congo,North-CentralAtlantic,NorthAtlantic,Peul-Serer,Fula}
+ 1   15.00  -14.00     3691000   fma   fuc
+1 I	min //
+2 you	an //
+3 we	minon, minen //
+11 one	go7o, wot //
+12 two	8i8 //
+18 person	XXX //
+19 fish	liNNg~u //
+21 dog	rawand~u, kutiru //
+22 louse	XXX //
+23 tree	lekki //
+25 leaf	XXX //
+28 skin	laral //
+30 blood	y"iy"am //
+31 bone	y"iyal //
+34 horn	XXX //
+39 ear	nofru //
+40 eye	yitere //
+41 nose	hinere, kinal //
+43 tooth	ny~ind~ere, nyire //
+44 tongue	8emNg~al //
+47 knee	hofru //
+48 hand	juNNg~go //
+51 breast	XXX //
+53 liver	XXX //
+54 drink	yar //
+57 see	yi7 //
+58 hear	nan //
+61 die	may, wat // (of humans, of other animates)
+66 come	war //
+72 sun	naNg~e //
+74 star	XXX //
+75 water	nd~iyam //
+77 stone	hayre //
+82 fire	yite, hite //
+85 path	8atal, lawol //
+86 mountain	XXX //
+92 night	Zemma //
+95 full	XXX //
+96 new	XXX //
+100 name	innd~e //

@@ -1,0 +1,102 @@
+FINNISH{Ura.FINNIC|Uralic,Finnic@Uralic,Finnic,NuclearFinnish}
+ 1   62.00   25.00     4994490   fin   fin
+1 I	%minE // loan from IE
+2 you	%sinE, te // loan from IE
+3 we	%me // loan from IE
+4 this	tEmE //
+5 that	tuo, se //
+6 who	kuka //
+7 what	mikE //
+8 not	ei //
+9 all	kaikki //
+10 many	%moni // loan from IE
+11 one	iksi //
+12 two	kaksi //
+13 big	iso, %suuri // loan from Germanic
+14 long	pitkE //
+15 small	pieni //
+16 woman	nainen //
+17 man	mies //
+18 person	%ihminen // loan from IE
+19 fish	kala //
+20 bird	lintu //
+21 dog	koira //
+22 louse	tEi //
+23 tree	puu //
+24 seed	%siemen // loan from Baltic
+25 leaf	%lehti // loan from Baltic
+26 root	juuri //
+27 bark	kuori //
+28 skin	iho //
+29 flesh	liha //
+30 blood	veri //
+31 bone	luu //
+32 grease	%rasva // loan from IE
+33 egg	muna //
+34 horn	%sarvi //  loan from Indo-Iranian
+35 tail	hEntE //
+36 feather	sulka //
+37 hair	tukka, %hius // probably loan from Germanic
+38 head	pEE //
+39 ear	korva //
+40 eye	silmE //
+41 nose	nenE //
+42 mouth	suu //
+43 tooth	%hammas // loan from Baltic
+44 tongue	kieli //
+45 claw	ky~nsi //
+46 foot	jalka //
+47 knee	polvi //
+48 hand	kEsi //
+49 belly	vatsa, %maha // loan from Germanic
+50 neck	%kaula // loan from Baltic
+51 breasts	%rinta // probably loan from Germanic
+52 heart	sy~dEn //
+53 liver	maksa //
+54 drink	juo //
+55 eat	sy~3 //
+56 bite	pure //
+57 see	nEke //
+58 hear	kuule //
+59 know	tietE //
+60 sleep	nukku //
+61 die	kuole //
+62 kill	tappa //
+63 swim	ui //
+64 fly	lentE //
+65 walk	kEvele //
+66 come	tule //
+67 lie	makaa //
+68 sit	istu //
+69 stand	seiso //
+70 give	anta //
+71 say	sano //
+72 sun	aurinko //
+73 moon	kuu //
+74 star	tEhti //
+75 water	%vesi // loan from IE
+76 rain	sata //
+77 stone	kivi //
+78 sand	hiekka //
+79 earth	maa //
+80 cloud	pilvi //
+81 smoke	savu //
+82 fire	tuli //
+83 ash	tuhka //
+84 burn	pala //
+85 path	tie //
+86 mountain	vuori //
+87 red	punainen //
+88 green	vihreE //
+89 yellow	keltainen //
+90 white	valkoinen //
+91 black	musta //
+92 night	y3 //
+93 hot	kuuma //
+94 cold	ky~lmE //
+95 full	tEysi //
+96 new	uusi //
+97 good	hy~vE //
+98 round	py~3reE //
+99 dry	kuiva //
+100 name	%nimi // loan from IE

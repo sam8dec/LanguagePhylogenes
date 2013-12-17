@@ -1,0 +1,102 @@
+JAPANESE{Jap.JAPANESE|Japonic@Japonic,Japanesic}
+ 1   37.00  140.00   122072000   jpn   jpn
+1 I	wataSi //
+2 you	anata //
+3 we	wareware //
+4 this	kono //
+5 that	sono, ano //
+6 who	tare //
+7 what	nan no //
+8 not	de nai, Si nai //
+9 all	subete, mina //
+10 many	tasu //
+11 one	hitocu //
+12 two	futacu //
+13 big	okina, erai //
+14 long	nagai //
+15 small	Cisai //
+16 woman	onna //
+17 man	hito, otoko //
+18 person	hito, jintai //
+19 fish	uo //
+20 bird	tori //
+21 dog	inu //
+22 louse	XXX //
+23 tree	ki //
+24 seed	tane //
+25 leaf	kono ha //
+26 root	ne //
+27 bark	kigawa //
+28 skin	kawa, %hifu // loan from Chinese
+29 flesh	niku //
+30 blood	Ci //
+31 bone	hone //
+32 grease	juSi //
+33 egg	tamago //
+34 horn	cuno //
+35 tail	o, Sippo //
+36 feather	yumo //
+37 hair	ke, tohacu //
+38 head	atama, zuno //
+39 ear	mimi //
+40 eye	me //
+41 nose	hana //
+42 mouth	kuCi //
+43 tooth	ha //
+44 tongue	Sita //
+45 claw	cume //
+46 foot	aSi //
+47 knee	hiza //
+48 hand	te //
+49 belly	XXX //
+50 neck	kubi //
+51 breasts	mune //
+52 heart	Sinzo, kokoro //
+53 liver	XXX //
+54 drink	nomu, su //
+55 eat	tabe //
+56 bite	kamu //
+57 see	mi, menkai su //
+58 hear	kiku //
+59 know	Si //
+60 sleep	nemu //
+61 die	Sinu, kare //
+62 kill	korosu, karasu //
+63 swim	oyogu //
+64 fly	tobu //
+65 walk	aruku //
+66 come	ku, yuku //
+67 lie	wokotawa //
+68 sit	suwa //
+69 stand	tacu //
+70 give	atae, make //
+71 say	yu //
+72 sun	%taiyo // loan from Chinese
+73 moon	cuki //
+74 star	hoSi //
+75 water	mizu //
+76 rain	ame, kou //
+77 stone	iSi, koiSi sekizai //
+78 sand	suna //
+79 earth	Cikyu, cuCi //
+80 cloud	kumo //
+81 smoke	kemuri, kicuen //
+82 fire	hi //
+83 ash	hai //
+84 burn	moe, wake //
+85 path	komiCi, hodo //
+86 mountain	yama //
+87 red	akairo no //
+88 green	midori, aoao Sita //
+89 yellow	kiro //
+90 white	Siroi //
+91 black	kuroi //
+92 night	yo //
+93 hot	acui //
+94 cold	samui, cumetai //
+95 full	miCita, %ippai de // loan from Chinese
+96 new	ataraSi, Sinsen //
+97 good	yoi //
+98 round	marui //
+99 dry	kawaita //
+100 name	na, seimei //

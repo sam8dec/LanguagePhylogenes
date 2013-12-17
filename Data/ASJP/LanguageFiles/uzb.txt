@@ -1,0 +1,42 @@
+UZBEK{Alt.TURKIC|Altaic,Turkic,Eastern@Turkic,CommonTurkic,Oghuz-Kipchak-Uyghur,Oghuz,Uzbek}
+ 1   40.67   66.50    18968250   kym   uzn
+1 I	men //
+2 you	sen //
+3 we	biz //
+11 one	bir //
+12 two	iki //
+18 person	inson //
+19 fish	baliq //
+21 dog	it //
+22 louse	bit //
+23 tree	darat //
+25 leaf	yaproq //
+28 skin	teri //
+30 blood	qon //
+31 bone	suyak //
+34 horn	muguz //
+39 ear	quloq //
+40 eye	koz //
+41 nose	burun //
+43 tooth	tiS //
+44 tongue	til //
+47 knee	tiza //
+48 hand	qol //
+51 breast	kokrak, koks //
+53 liver	baXir //
+54 drink	iC //
+57 see	kor //
+58 hear	eSit //
+61 die	ol //
+66 come	kel //
+72 sun	kun //
+74 star	yulduz //
+75 water	suv //
+77 stone	toS //
+82 fire	ot, otaS //
+85 path	yol //
+86 mountain	toX //
+92 night	keCa, tun //
+95 full	toq, tola //
+96 new	yaNi //
+100 name	ot, nom //

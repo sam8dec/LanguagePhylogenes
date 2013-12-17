@@ -1,0 +1,102 @@
+ESTONIAN{Ura.FINNIC|Uralic,Finnic@Uralic,Finnic}
+ 3   59.00   26.00     1018400   est   ekk
+1 I	mina, ma //
+2 you	sina, sa //
+3 we	meie, me //
+4 this	se //
+5 that	to //
+6 who	kes //
+7 what	mis //
+8 not	mitte //
+9 all	koik //
+10 many	palju, mitu //
+11 one	uks //
+12 two	kaks //
+13 big	sur //
+14 long	pikk //
+15 small	vaike //
+16 woman	naine //
+17 man	mes //
+18 person	inimene //
+19 fish	kala //
+20 bird	lind //
+21 dog	koer //
+22 louse	tai //
+23 tree	pu //
+24 seed	seme //
+25 leaf	%let //  probably loan, cf. similar form in Kildin Saami (SW)
+26 root	jur //
+27 bark	kor //
+28 skin	nak //
+29 flesh	liha //
+30 blood	veri //
+31 bone	kont, lu //
+32 grease	rasv //
+33 egg	muna //
+34 horn	%sarv // probably loan, cf. similar form in Kildin Saami (SW)
+35 tail	saba //
+36 feather	sulg //
+37 hair	juksed //
+38 head	pea //
+39 ear	korv //
+40 eye	silm //
+41 nose	nina //
+42 mouth	su //
+43 tooth	hammas //
+44 tongue	kel //
+45 claw	kus //
+46 foot	jalg //
+47 knee	%polv // probably loan, cf. similar form in Kildin Saami (SW)
+48 hand	kasi //
+49 belly	kot //
+50 neck	kael //
+51 breasts	rind //
+52 heart	suda //
+53 liver	maks //
+54 drink	jo //
+55 eat	so //
+56 bite	hammusta //
+57 see	nage //
+58 hear	kul //
+59 know	tead //
+60 sleep	maga //
+61 die	sure //
+62 kill	tap //
+63 swim	uju //
+64 fly	lenda //
+65 walk	kondi //
+66 come	tule //
+67 lie	lama //
+68 sit	istu //
+69 stand	seis //
+70 give	and //
+71 say	utle //
+72 sun	paike //
+73 moon	ku //
+74 star	tat //
+75 water	vesi //
+76 rain	vim //
+77 stone	kivi //
+78 sand	liv //
+79 earth	ma, muld //
+80 cloud	pilv //
+81 smoke	suic //
+82 fire	tuli //
+83 ash	tuk //
+84 burn	pole //
+85 path	te //
+86 mountain	magi //
+87 red	punane //
+88 green	roheline //
+89 yellow	kollane //
+90 white	valge //
+91 black	must //
+92 night	o //
+93 hot	soe //
+94 cold	kulm //
+95 full	tais //
+96 new	us //
+97 good	hea //
+98 round	umar //
+99 dry	kuiv //
+100 name	%nimi //  probably loan, cf. similar form in Kildin Saami (SW)

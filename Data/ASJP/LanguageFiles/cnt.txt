@@ -1,0 +1,102 @@
+CANTONESE{ST.CHINESE|Sino-Tibetan,Chinese@Sino-Tibetan,Sinitic,SouthChinese}
+ 1   23.00  113.00    62239960   cnt   yue
+1 I	Noh //
+2 you	neih deih //
+3 we	Nh deih //
+4 this	nigo //
+5 that	go go //
+6 who	bin go //
+7 what	mat yeh, me yeh //
+8 not	mh //
+9 all	gogo dou //
+10 many	hou do //
+11 one	yat //
+12 two	yih //
+13 big	daih //
+14 long	CeuN //
+15 small	sai //
+16 woman	neuih yan //
+17 man	namyan //
+18 person	yan //
+19 fish	yu //
+20 bird	jeuk jain //
+21 dog	gau //
+22 louse	sat na //
+23 tree	sy~uh //
+24 seed	juN ji //
+25 leaf	sy~uh yip //
+26 root	gan //
+27 bark	sy~uh peih //
+28 skin	peih fu //
+29 flesh	yuk //
+30 blood	hy~ut //
+31 bone	gw~at //
+32 grease	yauh, seuN yau //
+33 egg	dan //
+34 horn	gok //
+35 tail	meih //
+36 feather	jeuk mouh //
+37 hair	tauh fat //
+38 head	tauh hok //
+39 ear	yih jai //
+40 eye	Nan //
+41 nose	beih go //
+42 mouth	hau, jeui //
+43 tooth	Nah //
+44 tongue	leih //
+45 claw	jau //
+46 foot	geuk //
+47 knee	sat tauh go //
+48 hand	sau //
+49 belly	touh //
+50 neck	geN //
+51 breasts	nin, naih //
+52 heart	sam joN //
+53 liver	gon, yeun //
+54 drink	yam //
+55 eat	sik //
+56 bite	Nauh //
+57 see	tai //
+58 hear	teN gin //
+59 know	ji dou //
+60 sleep	fan gau //
+61 die	sei //
+62 kill	jiN sei, da sei //
+63 swim	yauh seui //
+64 fly	fei //
+65 walk	haN //
+66 come	leih, laih //
+67 lie	fan dai, fan hai //
+68 sit	Coh //
+69 stand	keih //
+70 give	bei //
+71 say	goN, wah //
+72 sun	yat tau, tai yeuN //
+73 moon	yut gw~oN //
+74 star	siN //
+75 water	seui //
+76 rain	yuh //
+77 stone	sek //
+78 sand	sa //
+79 earth	deih //
+80 cloud	wan //
+81 smoke	yin //
+82 fire	fo juk //
+83 ash	fui //
+84 burn	siu //
+85 path	louh jai //
+86 mountain	san //
+87 red	huN sik //
+88 green	luk ge, CeN ge //
+89 yellow	woN sik //
+90 white	bak //
+91 black	hak sik ge //
+92 night	yeh man, hak //
+93 hot	yit //
+94 cold	laN, duN //
+95 full	fou dy~u fou hsih //
+96 new	san ge //
+97 good	hou //
+98 round	yun //
+99 dry	gon //
+100 name	meN //

@@ -1,0 +1,42 @@
+THAI{TK.KAM-TAI|Tai-Kadai,Kam-Tai,Tai,Southwestern@Tai-Kadai,Kam-Tai,Be-Tai,Daic,Central-SouthwesternTai,Wenma-SouthwesternTai,Sapa-SouthwesternTai,SouthwesternTai,SouthwesternThaiPH,Lao-Thai}
+ 1   16.00  101.00    20421280   tha   tha
+1 I	Th~an //
+2 you	dh~ew //
+3 we	rau //
+11 one	hn3N //
+12 two	%soN // probably loan from Middle Chinese (LWT)
+18 person	gon //
+19 fish	pla //
+21 dog	hma //
+22 louse	hau //
+23 tree	mai //
+25 leaf	bai //
+28 skin	hnaN //
+30 blood	l3at //
+31 bone	kraduk //
+34 horn	kh~au //
+39 ear	hu //
+40 eye	ta //
+41 nose	%Tamuk //  loan from Khmer (LWT)
+43 tooth	van //
+44 tongue	lin //
+47 knee	kh~au //
+48 hand	m3 //
+51 breast	nom //
+53 liver	tap //
+54 drink	d3m //
+57 see	hen //
+58 hear	yin //
+61 die	tai //
+66 come	ma //
+72 sun	tabwan //
+74 star	dau //
+75 water	nam //
+77 stone	hin //
+82 fire	vai //
+85 path	daN //
+86 mountain	kh~au //
+92 night	g3n //
+95 full	tem //
+96 new	hmai //
+100 name	Z3 //

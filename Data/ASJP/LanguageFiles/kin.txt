@@ -1,0 +1,42 @@
+KINYARWANDA{NC.BANTOID|Niger-Congo,Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,Southern,NarrowBantu,Central,J,Rwanda-Rundi(D.61)@Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,SouthernBantoid,NarrowBantu,EastBantu,NortheastSavannaBantu,GreatLakesBantu,WesternLakesBantu,Kivu,WestHighlandsKivu}
+ 1   -2.00   30.00     7189900   kin   kin
+1 I	gy~ewe //
+2 you	wowe //
+3 we	tw~ebw~e, ebw~e //
+11 one	mw~e //
+12 two	bili //
+18 person	nt~u //
+19 fish	fi //
+21 dog	bw~a //
+22 louse	da //
+23 tree	XXX //
+25 leaf	babi //
+28 skin	hu //
+30 blood	raso //
+31 bone	gufw~a //
+34 horn	hemb~e //
+39 ear	tw~i //
+40 eye	iSo, aso //
+41 nose	zuru //
+43 tooth	i5o //
+44 tongue	limi //
+47 knee	vi //
+48 hand	ganz~a //
+51 breast	tuza //
+53 liver	ijima //
+54 drink	5w~a //
+57 see	rora, reba //
+58 hear	mv~a //
+61 die	pf~a //
+66 come	za //
+72 sun	zuba //
+74 star	5e5eri //
+75 water	azi //
+77 stone	buye //
+82 fire	liro //
+85 path	zira //
+86 mountain	sozi //
+92 night	joro //
+95 full	zura //
+96 new	Sy~a //
+100 name	zina //

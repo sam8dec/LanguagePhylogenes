@@ -1,0 +1,42 @@
+CEBUANO{An.MESO-PHILIPPINE|Austronesian,Malayo-Polynesian,Philippine,GreaterCentralPhilippine,CentralPhilippine,Bisayan,Cebuan@Austronesian,NuclearAustronesian,Malayo-Polynesian,GreaterCentralPhilippine,CentralPhilippine,Bisayan}
+ 1   10.00  124.00    15810000   ceb   ceb
+1 I	ako, ko //
+2 you	ikaw, ka //
+3 we	kita, ta //
+11 one	usa //
+12 two	duha //
+18 person	tawu //
+19 fish	isda //
+21 dog	iro7 //
+22 louse	kutu //
+23 tree	XXX //
+25 leaf	dahun //
+28 skin	panit //
+30 blood	dugu7 //
+31 bone	bukug //
+34 horn	XXX //
+39 ear	daluNg~an //
+40 eye	mata //
+41 nose	iluN //
+43 tooth	Nipun //
+44 tongue	dila //
+47 knee	XXX //
+48 hand	kamut //
+51 breast	dugh~an, susu //
+53 liver	atay //
+54 drink	inum //
+57 see	tanaw //
+58 hear	duNug, minaw //
+61 die	matay //
+66 come	anh~i //
+72 sun	XXX //
+74 star	bitun //
+75 water	tubig //
+77 stone	batu //
+82 fire	kalayu //
+85 path	dalan, agianan //
+86 mountain	XXX //
+92 night	gabi7i //
+95 full	XXX //
+96 new	bagu //
+100 name	Nalan //

@@ -1,0 +1,42 @@
+MOROCCAN_ARABIC{AA.SEMITIC|Afro-Asiatic,Semitic,Central,South,Arabic@Afro-Asiatic,Semitic,WestSemitic,CentralSemitic,Arabian,Arabic,NorthAfricanArabic,Moroccan-AndalusianArabic}
+ 1   34.00   -6.00    21048600   amr   ary
+1 I	Ena //
+2 you	3nta, 3nti //
+3 we	X3na //
+11 one	woX3d //
+12 two	zuZ, ZuZ //
+18 person	insEn //
+19 fish	Xota //
+21 dog	k3lb //
+22 louse	XXX //
+23 tree	S3ZrX~a //
+25 leaf	w3rX~qa //
+28 skin	Z3l3d, Z3ld //
+30 blood	d3m //
+31 bone	X3dX~3m //
+34 horn	g3rX~3n, q3rX~3n //
+39 ear	w3d3n //
+40 eye	3X3n //
+41 nose	m3nx3rX~, nif //
+43 tooth	s3na //
+44 tongue	l3sEn //
+47 knee	rukba, rX~okba //
+48 hand	id, y3d //
+51 breast	b3zula //
+53 liver	k3bda //
+54 drink	S3rX~3b //
+57 see	n3dX~3rX~, SEf //
+58 hear	s3m3X //
+61 die	mEt //
+66 come	Za //
+72 sun	3s3ms, 3s3mS //
+74 star	XXX //
+75 water	ma //
+77 stone	X3Zra //
+82 fire	Xofy~a //
+85 path	XXX //
+86 mountain	Z3b3l //
+92 night	lil //
+95 full	Xom3rX~ //
+96 new	Z3did //
+100 name	s3m, s3m3ya //

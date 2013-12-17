@@ -1,0 +1,102 @@
+SOMALI{AA.EASTERN_CUSHITIC|Afro-Asiatic,Cushitic,East,Somali@Afro-Asiatic,Cushitic,EastCushitic,LowlandEastCushitic,SouthernLowlandEastCushitic,MainstreamLowlandEastCushitic,Omo-Tana,EasternOmo-Tana,Somalic}
+ 1    3.00   45.00    16559722   som   som
+1 I	aniga //
+2 you	adigu, idinku //
+3 we	innagu, annagu //
+4 this	kan, tan //
+5 that	kas, tas //
+6 who	XXX //
+7 what	iya, maXa //
+8 not	XXX //
+9 all	oo Tan //
+10 many	badan //
+11 one	mid, kow //
+12 two	laba //
+13 big	wen //
+14 long	XXX //
+15 small	yar //
+16 woman	nag, qof dumar ah //
+17 man	nin
+18 person	qof //
+19 fish	kalun //
+20 bird	Simbir //
+21 dog	ey //
+22 louse	injir //
+23 tree	ged //
+24 seed	inin, Sini //
+25 leaf	Xalen //
+26 root	Xidid //
+27 bark	XXX //
+28 skin	XXX //
+29 flesh	hilib, XaT //
+30 blood	Tig //
+31 bone	laf //
+32 grease	XXX //
+33 egg	bed //
+34 horn	ges //
+35 tail	dabo //
+36 feather	bal //
+37 hair	tin, Xiro //
+38 head	madaX //
+39 ear	Teg //
+40 eye	il //
+41 nose	san //
+42 mouth	af //
+43 tooth	ilig //
+44 tongue	Xarab //
+45 claw	idi //
+46 foot	Xag //
+47 knee	jilib //
+48 hand	gaXan //
+49 belly	Xalol //
+50 neck	luqun //
+51 breasts	lab, nas //
+52 heart	wadne //
+53 liver	ber //
+54 drink	ab, Tan //
+55 eat	Xun //
+56 bite	qanin //
+57 see	arag //
+58 hear	maqal //
+59 know	ogow, garo //
+60 sleep	seXo, hurud //
+61 die	Timo, baqti //
+62 kill	dil, la //
+63 swim	dabalo //
+64 fly	dul //
+65 walk	luge //
+66 come	iman //
+67 lie	jifso //
+68 sit	faTiso //
+69 stand	tosi, tag //
+70 give	si, Tib //
+71 say	The //
+72 sun	qaraX //
+73 moon	dayaX //
+74 star	Xidig //
+75 water	biyo //
+76 rain	rob //
+77 stone	TagaX //
+78 sand	burXid //
+79 earth	Xid //
+80 cloud	darur //
+81 smoke	qiq //
+82 fire	dab //
+83 ash	dambas //
+84 burn	gubo //
+85 path	wado, wadiqo //
+86 mountain	bur //
+87 red	Xas //
+88 green	axdar, dog //
+89 yellow	Xawlan //
+90 white	Xad //
+91 black	madow //
+92 night	haben //
+93 hot	XXX //
+94 cold	TaXamod //
+95 full	buXsan, daf //
+96 new	Xusub //
+97 good	wanagsan //
+98 round	waregsan, mersan //
+99 dry	qalalan, engegen //
+100 name	magaXa //

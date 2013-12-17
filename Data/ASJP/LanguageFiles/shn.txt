@@ -1,0 +1,42 @@
+SHONA{NC.BANTOID|Niger-Congo,Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,Southern,NarrowBantu,Central,S,Shona(S.11)@Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,SouthernBantoid,NarrowBantu,EastBantu,Shona(S.10),CoreShona,PlateauShona,CentralShona}
+ 1  -18.00   31.00    10759200   krg   sna
+1 I	ini //
+2 you	XXX //
+3 we	XXX //
+11 one	mw~e //
+12 two	viri, mb~iri //
+18 person	nh~u //
+19 fish	hove //
+21 dog	bw~a, gw~a //
+22 louse	da //
+23 tree	ti //
+25 leaf	Sija //
+28 skin	gand~a, vh~iya //
+30 blood	ropa, gazi //
+31 bone	godo, fupa //
+34 horn	5aNg~a //
+39 ear	zeve, jeve //
+40 eye	ziso //
+41 nose	mh~umo //
+43 tooth	zino //
+44 tongue	rimi //
+47 knee	bv~i //
+48 hand	dy~i, boSw~e //
+51 breast	zamu //
+53 liver	ropa //
+54 drink	nw~a, mw~a //
+57 see	ona //
+58 hear	nzw$a //
+61 die	fa, Saya //
+66 come	uya, sv~ika //
+72 sun	zuva //
+74 star	5e5eci //
+75 water	vura //
+77 stone	bw~e //
+82 fire	oto, rimi //
+85 path	zira //
+86 mountain	gomo, kopje //
+92 night	siku //
+95 full	zara //
+96 new	cv~a //
+100 name	zita //

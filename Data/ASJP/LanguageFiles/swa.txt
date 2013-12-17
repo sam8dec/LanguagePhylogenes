@@ -1,0 +1,102 @@
+SWAHILI{NC.BANTOID|Niger-Congo,Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,Southern,NarrowBantu,Central,G,Swahili(G.42)@Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,SouthernBantoid,NarrowBantu,EastBantu,NortheastSavannaBantu,NortheastCoastalBantu,CoastalNECBantu,Sabaki-Swahili,Swahili(G.40)}
+ 1   -6.50   39.00    15457390   swa   swh
+1 I	mimi //
+2 you	wewe, 5i5i //
+3 we	sisi //
+4 this	lile, ule //
+5 that	lile, ule //
+6 who	nani //
+7 what	nini //
+8 not	si //
+9 all	ote //
+10 many	sana, iNi //
+11 one	moja //
+12 two	mb~ili //
+13 big	ku //
+14 long	refu //
+15 small	dogo //
+16 woman	bibi, gaSi //
+17 man	ume //
+18 person	tu //
+19 fish	%samaki // loan from Arabic (Schadeberg 2009)
+20 bird	dege //
+21 dog	bw~a //
+22 louse	Cawa //
+23 tree	ti //
+24 seed	begu //
+25 leaf	jani //
+26 root	zizi //
+27 bark	gamb~a //
+28 skin	Ng~ozi //
+29 flesh	5ama //
+30 blood	%damu //  from Arabic
+31 bone	fupa //
+32 grease	ori //
+33 egg	yai //
+34 horn	pemb~e //
+35 tail	kia //
+36 feather	5oya //
+37 hair	5w~ele //
+38 head	Cwa //
+39 ear	sikio //
+40 eye	jiCo //
+41 nose	pua //
+42 mouth	5w~a //
+43 tooth	jino //
+44 tongue	limi //
+45 claw	kuCa //
+46 foot	gu //
+47 knee	goti //
+48 hand	kono //
+49 belly	tumb~o //
+50 neck	SiNg~o //
+51 breasts	fua //
+52 heart	oyo //
+53 liver	ini //
+54 drink	5w~a //
+55 eat	la //
+56 bite	donoa //
+57 see	ona //
+58 hear	sikia //
+59 know	fahamu //
+60 sleep	lala //
+61 die	fa //
+62 kill	ua //
+63 swim	ogelea //
+64 fly	pa //
+65 walk	temb~ea //
+66 come	ja //
+67 lie	gona //
+68 sit	keti //
+69 stand	amka //
+70 give	pa //
+71 say	sema //
+72 sun	jua //
+73 moon	ezi //
+74 star	5ota //
+75 water	maji //
+76 rain	mv~ua //
+77 stone	jiwe //
+78 sand	CaNg~a //
+79 earth	%ar8i // loan from Arabic
+80 cloud	wiNg~u //
+81 smoke	oSi //
+82 fire	oto //
+83 ash	jivu //
+84 burn	waka //
+85 path	5j~ia //
+86 mountain	lima //
+87 red	kund~u //
+88 green	kijani //
+89 yellow	ma5j~ano //
+90 white	upe //
+91 black	usi //
+92 night	siku //
+93 hot	moto //
+94 cold	baridi //
+95 full	nene //
+96 new	py~a //
+97 good	ema //
+98 round	duara //
+99 dry	kavu //
+100 name	jina //

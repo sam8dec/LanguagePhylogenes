@@ -1,0 +1,102 @@
+SUNDANESE{An.SUNDANESE|Austronesian,Malayo-Polynesian,Sundanese@Austronesian,NuclearAustronesian,Malayo-Polynesian,Malayo-Sumbawan,Sundanese-Badui}
+ 2   -7.00  107.00    34000000   sun   sun
+1  I	kuriN, aiN //
+2  you	anjeun, maneh //
+3  we	uraN //
+4  this	ieu //
+5  that	itu //
+6  who	saha //
+7  what	naon //
+8  not	lein, henteu //
+9  all	%kabeh, sadaya //  Javanese loan (ABVD)
+10 many	rahi //
+11 one	%hiji //  Javanese loan (ABVD)
+12 two	dua //
+13 big	badag, %gede //  Javanese loan (ABVD)
+14 long	panjaN //
+15 small	leutik //
+16 woman	ewe, awewe //
+17 man	lalaki //
+18 person	jalma, mamusa //
+19 fish	lauk //
+20 bird	manuk //
+21 dog	anjiN //
+22 louse	XXX //
+23 tree	taNkal //
+24 seed	siki, binih //
+25 leaf	daun //
+26 root	akar //
+27 bark	XXX //
+28 skin	kulit //
+29 flesh	dagiN //
+30 blood	%getih //  Javanese loan (ABVD)
+31 bone	tulaN //
+32 grease	lemak, %gajih // Javanese loan (ABVD)
+33 egg	%endog //  Javanese loan (ABVD)
+34 horn	tanduk //
+35 tail	%buntut //  loan (ABVD)
+36 feather	bulu //
+37 hair	buk //
+38 head	hulu, %sirah //  Javanese loan (ABVD)
+39 ear	Ceuli //
+40 eye	panon, mata //
+41 nose	iruN //
+42 mouth	suNut, baham //
+43 tooth	%huntu, waos //  Javanese loan (ABVD)
+44 tongue	letah, ilat //
+45 claw	kuku //
+46 foot	suku //
+47 knee	tur //
+48 hand	leuNeun //
+49 belly	beuteuN //
+50 neck	beuheuN //
+51 breasts	pinareup, susu //
+52 heart	jantuN //
+53 liver	ati, hate //
+54 drink	Ninum //
+55 eat	%dahar //  Javanese loan (ABVD)
+56 bite	Negel, 5eureud //
+57 see	nempo, neuleu //
+58 hear	NadeNe //
+59 know	5aho //
+60 sleep	sare, hes //
+61 die	mate, pohe //
+62 kill	maehan, mateni //
+63 swim	Nojay //
+64 fly	hiber //
+65 walk	leumpaN //
+66 come	dataN //
+67 lie	NabohuN //
+68 sit	diuk //
+69 stand	naNtuN, lugay //
+70 give	mere //
+71 say	5arita //
+72 sun	panonpoe //
+73 moon	bulan //
+74 star	bentaN //
+75 water	Cai //
+76 rain	hujan //
+77 stone	batu //
+78 sand	keusik //
+79 earth	lemah //
+80 cloud	awan //
+81 smoke	haseup //
+82 fire	seuneu //
+83 ash	lebu //
+84 burn	duruk //
+85 path	XXX //
+86 mountain	gunuN //
+87 red	beureum //
+88 green	hejo //
+89 yellow	koneN //
+90 white	bodas, putih //
+91 black	hideuN //
+92 night	peutiN, weNi //
+93 hot	haneut //
+94 cold	tis, tiris //
+95 full	pinuh //
+96 new	%anyar, baru //  Javanese loan (ABVD)
+97 good	alus, hade //
+98 round	buleud //
+99 dry	%gariN //  Javanese loan (ABVD)
+100 name	Naran //

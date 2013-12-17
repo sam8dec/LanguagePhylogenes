@@ -1,0 +1,42 @@
+GREEK{IE.GREEK|Indo-European,Greek,Attic@Indo-European,Graeco-Phrygian,Greek,Attic,KoineicGreek}
+ 1   39.00   22.00    13068650   grk   ell
+1 I	exo //
+2 you	esi //
+3 we	emis //
+11 one	enas, ena //
+12 two	8y~o, 8io //
+18 person	an8~ropos //
+19 fish	psari //
+21 dog	sTili, sTilos //
+22 louse	psira //
+23 tree	8end~ro //
+25 leaf	filo //
+28 skin	petsi, 8erma //
+30 blood	ema //
+31 bone	kokalo, osto //
+34 horn	Terato, Teras //
+39 ear	afti //
+40 eye	mati, of8almos //
+41 nose	miti //
+43 tooth	8ond~i //
+44 tongue	xlosa //
+47 knee	xonato //
+48 hand	xeri //
+51 breast	sti8os, mastos //
+53 liver	sikoti, ipar //
+54 drink	pin //
+57 see	vlep //
+58 hear	aku //
+61 die	pe8en, ap //
+66 come	erx~o //
+72 sun	ily~os, iLos //
+74 star	asteri, astro //
+75 water	nero //
+77 stone	petra //
+82 fire	foty~a //
+85 path	8romos //
+86 mountain	vuno, oros //
+92 night	nita //
+95 full	yematos, pliris //
+96 new	neos, Tenury~os //
+100 name	onoma //

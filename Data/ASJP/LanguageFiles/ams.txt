@@ -1,0 +1,42 @@
+STANDARD_ARABIC{AA.SEMITIC|Afro-Asiatic,Semitic,Central,South,Arabic@Afro-Asiatic,Semitic,WestSemitic,CentralSemitic,Arabian,Arabic}
+ 1   25.00   42.00           0   ams   arb
+1 I	EnE //
+2 you	EntE, Enti //
+3 we	nEnu //
+11 one	wEXid //
+12 two	i8nEni //
+18 person	SESX~, insEn //
+19 fish	sEmEk //
+21 dog	kElb //
+22 louse	XXX //
+23 tree	SEjErE //
+25 leaf	wErEqo //
+28 skin	bESErE, jild //
+30 blood	dEm //
+31 bone	XEzX~m //
+34 horn	XXX //
+39 ear	u8un //
+40 eye	XEin //
+41 nose	Emf, Enf //
+43 tooth	sin //
+44 tongue	lisEn //
+47 knee	rukbE //
+48 hand	yEd //
+51 breast	XXX //
+53 liver	kEbid //
+54 drink	SEribE //
+57 see	rE7E, yErE //
+58 hear	sEmiXE, istEmEXE //
+61 die	mEtE //
+66 come	jE7E //
+72 sun	SEms //
+74 star	nEjm //
+75 water	mE7 //
+77 stone	XEjEr //
+82 fire	nEr, XEriq //
+85 path	tX~oriq, dErb //
+86 mountain	jEbEl //
+92 night	lEilE //
+95 full	mEli7 //
+96 new	jEdid //
+100 name	ism //

@@ -1,0 +1,42 @@
+KABYLE{AA.BERBER|Afro-Asiatic,Berber,Northern,Kabyle@Afro-Asiatic,Berber,NorthernBerber}
+ 1   36.05    5.00     5586000   kbl   kab
+1 I	n3k //
+2 you	k3C //
+3 we	n3kw~ni //
+11 one	yiw3n //
+12 two	sin //
+18 person	%bnadem // loan from Arabic
+19 fish	asl3m //
+21 dog	aydi //
+22 louse	tilkit //
+23 tree	XXX //
+25 leaf	if3r //
+28 skin	agw~lim //
+30 blood	idam3n //
+31 bone	ix3s //
+34 horn	iS //
+39 ear	am3zux //
+40 eye	tit //
+41 nose	anzar3n // pl
+43 tooth	tuxm3st //
+44 tongue	il3s //
+47 knee	agw~3Srir //
+48 hand	afus //
+51 breast	idmar3n //
+53 liver	tasa //
+54 drink	s3w //
+57 see	wali //
+58 hear	s3l //
+61 die	3m3t //
+66 come	as //
+72 sun	itiZ //
+74 star	itri //
+75 water	aman //
+77 stone	adxax //
+82 fire	tim3s //
+85 path	abrid //
+86 mountain	adrar //
+92 night	id //
+95 full	aCaran //
+96 new	XXX //
+100 name	is3m //

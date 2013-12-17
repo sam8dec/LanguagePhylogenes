@@ -1,0 +1,42 @@
+KASHMIRI{IE.INDIC|Indo-European,Indo-Iranian,Indo-Aryan,Northwesternzone,Dardic,Kashmiri@Indo-European,Indo-Iranian,Indo-Aryan,Indo-AryanNorthwesternzone}
+ 1   34.00   76.00     5580830   kas   kas
+1 I	boh //
+2 you	tuhi, ca //
+3 we	as3 //
+11 one	ak //
+12 two	zah //
+18 person	zon, Sakh~s //
+19 fish	gad //
+21 dog	hun, hin3 //
+22 louse	zauv //
+23 tree	kul //
+25 leaf	panbarag, patar //
+28 skin	musla, post //
+30 blood	rath~ //
+31 bone	adij //
+34 horn	heN //
+39 ear	kan //
+40 eye	aTh~ //
+41 nose	nast //
+43 tooth	dand~ //
+44 tongue	zeo, zaban //
+47 knee	koth~ //
+48 hand	ath~a //
+51 breast	waT, sina //
+53 liver	kh~rena maz, jiggar //
+54 drink	Ty~un3 //
+57 see	wuTh~un3, deSun3 //
+58 hear	bozun3 //
+61 die	marun3 //
+66 come	yiun3 //
+72 sun	aftab, siri //
+74 star	taruk, sitara //
+75 water	ab, treS //
+77 stone	kain, pal //
+82 fire	nar, teNul //
+85 path	wat //
+86 mountain	koh, bal // (hill)
+92 night	at, rat ky~ut //
+95 full	trawatrawa, barit //
+96 new	nau //
+100 name	nao //

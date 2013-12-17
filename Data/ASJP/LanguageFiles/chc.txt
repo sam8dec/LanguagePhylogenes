@@ -1,0 +1,42 @@
+CHECHEN{NDa.NAKH|NorthCaucasian,EastCaucasian,Nakh,Chechen-Ingush@Nakh-Daghestanian,Nakh,Chechen-Ingush}
+ 1   43.25   45.83     1361000   chc   che
+1 I	so //
+2 you	ho //
+3 we	Su //
+11 one	cX~a7 //
+12 two	Si7 //
+18 person	stag //
+19 fish	C"ara //
+21 dog	ZX~Ela //
+22 louse	mEza //
+23 tree	dit //
+25 leaf	Xa //
+28 skin	C"q"uor, c"oka //
+30 blood	c"iy, c"i //
+31 bone	dEXak //
+34 horn	maXa //
+39 ear	lErg //
+40 eye	bX~arg //
+41 nose	mara //
+43 tooth	cErg //
+44 tongue	mot //
+47 knee	guola //
+48 hand	kig //
+51 breast	naqX~a //
+53 liver	do7aX //
+54 drink	mala //
+57 see	gan //
+58 hear	Xaza //
+61 die	ala //
+66 come	an //
+72 sun	malX~ //
+74 star	sEda //
+75 water	Xi //
+77 stone	t"ulg //
+82 fire	c"E //
+85 path	taCa //
+86 mountain	lam //
+92 night	bisa //
+95 full	izina //
+96 new	c"ina, kErla //
+100 name	c"E //

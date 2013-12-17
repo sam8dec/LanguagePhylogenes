@@ -1,0 +1,42 @@
+SAKHA{Alt.TURKIC|Altaic,Turkic,Northern@Turkic,CommonTurkic,NorthSiberianTurkic}
+ 1   62.00  130.00      450000   ykt   sah
+1 I	min //
+2 you	en //
+3 we	bihigi //
+11 one	bir //
+12 two	iki //
+18 person	kihi //
+19 fish	baluk //
+21 dog	ut //
+22 louse	but //
+23 tree	%mas // proably loan (LWT)
+25 leaf	sebirdex //
+28 skin	tiri, xax //
+30 blood	xan //
+31 bone	uNuox //
+34 horn	muos //
+39 ear	kulgax //
+40 eye	xarax //
+41 nose	murun //
+43 tooth	tis //
+44 tongue	tul //
+47 knee	5ilbek //
+48 hand	ili //
+51 breast	ties //
+53 liver	buar //
+54 drink	is //
+57 see	ker //
+58 hear	ihit //
+61 die	el //
+66 come	kel //
+72 sun	kin //
+74 star	sulus //
+75 water	XXX //
+77 stone	tas //
+82 fire	uot //
+85 path	ayan, suol //
+86 mountain	xaya //
+92 night	kiehe //
+95 full	toloru //
+96 new	saNa //
+100 name	at //

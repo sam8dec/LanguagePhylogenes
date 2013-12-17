@@ -1,0 +1,102 @@
+KANURI{NS.WESTERN_SAHARAN|Nilo-Saharan,Saharan,Western,Kanuri@Saharan,WesternSaharan,Kanuri-Kanembu,Kanuric}
+ 1   12.00   13.00     3240500   knr   knc
+1 I	wu //
+2 you	5i //
+3 we	and~i //
+4 this	ad3 //
+5 that	tudu //
+6 who	nd~u //
+7 what	abi //
+8 not	ba //
+9 all	Naso //
+10 many	N3wu //
+11 one	tilo, fal //
+12 two	nd~i //
+13 big	kura //
+14 long	kuruwu, dat3a //
+15 small	gana, kori //
+16 woman	kamu //
+17 man	kw~a //
+18 person	kam //
+19 fish	b35i //
+20 bird	Nudo //
+21 dog	k3ri //
+22 louse	k3N3s3 //
+23 tree	k3ska //
+24 seed	kusu5i //
+25 leaf	kalu, lamb~u //
+26 root	Si, jar //
+27 bark	kaskaSi //
+28 skin	karawi //
+29 flesh	da //
+30 blood	bu //
+31 bone	Sila //
+32 grease	kais3 //
+33 egg	N3w3l //
+34 horn	kaNadi //
+35 tail	Nawure //
+36 feather	kund~uli //
+37 hair	kund~uli //
+38 head	k3la //
+39 ear	s3mo //
+40 eye	Sim //
+41 nose	k3nsa //
+42 mouth	Ci //
+43 tooth	timi, Seli //
+44 tongue	t3lam //
+45 claw	f3rgan //
+46 foot	Si //
+47 knee	NurumNurum //
+48 hand	musko //
+49 belly	timbi //
+50 neck	dawu //
+51 breasts	t3gam //
+52 heart	karwu //
+53 liver	k3mat3n //
+54 drink	k3nja //
+55 eat	bu //
+56 bite	timin ta, nand~o //
+57 see	ro //
+58 hear	fan //
+59 know	no //
+60 sleep	let //
+61 die	no //
+62 kill	nj~ezo //
+63 swim	mb~a, kamb~e //
+64 fly	far //
+65 walk	le //
+66 come	iso, k3nd~io //
+67 lie	bo //
+68 sit	nap //
+69 stand	da //
+70 give	yio //
+71 say	n3, gulta //
+72 sun	k3Nal //
+73 moon	k3mb~al, k3nd~awu //
+74 star	Silowu //
+75 water	nj~i //
+76 rain	d3lag3, nj~i samibe //
+77 stone	kau //
+78 sand	Cesa //
+79 earth	Cidi //
+80 cloud	fowo //
+81 smoke	kaNe //
+82 fire	kanu //
+83 ash	bug3 //
+84 burn	mal //
+85 path	turwo //
+86 mountain	k3ri, kau //
+87 red	Cime, kime //
+88 green	k3li //
+89 yellow	Casa, kurnum //
+90 white	bul //
+91 black	s3l3m //
+92 night	b3n3 //
+93 hot	kanua //
+94 cold	amusu //
+95 full	z3mb~3li //
+96 new	b3lin //
+97 good	k3ji //
+98 round	dukurkur, kw~ai mb~ok //
+99 dry	Namd3 //
+100 name	Cu //

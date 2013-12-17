@@ -1,0 +1,102 @@
+KANNADA{Dra.SOUTHERN_DRAVIDIAN|Dravidian,Southern,Tamil-Kannada,Kannada@Dravidian,SouthDravidian,SouthDravidianI,Tamil-Kannada,Badaga-Kannada,Kannadoid,NuclearKannaoid}
+ 1   14.00   76.00    37739040   knd   kan
+1 I	nanu //
+2 you	ninu, ninga //
+3 we	navu, enga //
+4   this	idu, iduna //
+5   that	adu, aduna //
+6   who	yaru, dara //
+7   what	enu, ena //
+8   not	alla, ade //
+9   all	ella, saruva //
+10  many	halavu, appara //
+11 one	ondu
+12 two	eradu
+13  big	dodda, hebbu //
+14  long	%udda, nila // Indic loan (Sreekantaiza 1956)
+15  small	Cikka, osi //
+16  woman	stri, ijji //
+17  man	purusa, alu //
+18 person	%manusya, alu // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+19 fish	matsya, minu //
+20  bird	%hakki // Indic loan (Sreekantaiza 1956)
+21 dog	nayi, ne //
+22 louse	henu, hu //
+23 tree	mara, mora //
+24  seed	bede, gundu //
+25 leaf	ele, patara //
+26  root	beru, gasu //
+27  bark	naru, ule //
+28 skin	togalu, Cakkala //
+29  flesh	badu, kanda //
+30 blood	%rakta, nettaru // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+31 bone	elubu, ilu //
+32  grease	kobbida, koluppu //
+33  egg	motte //
+34 horn	kombu
+35  tail	bala, balu //
+36  feather	gari, eragu //
+37  hair	kudalu, uroma //
+38  head	tale, monde //
+39 ear	kivi //
+40 eye	kannu //
+41 nose	mugu
+42  mouth	bayu, bai //
+43 tooth	hallu, allu //
+44 tongue	nalige, navu //
+45  claw	uguru, ugilu //
+46  foot	adi, angalu //
+47 knee	monakalu
+48 hand	kai
+49  belly	hotte, odalu //
+50  neck	kuttige, gattu //
+51 breasts	ede, bosi //
+52  heart	%hrdayu, %ede // Indic loan (Sreekantaiza 1956)
+53 liver	hiri, iralu //
+54 drink	kudi, ulu //
+55  eat	tinnu, unnu //
+56  bite	kadi, kaCCu //
+57 see	nodu, kanu //
+58 hear	kelu, ke //
+59  know	ari //
+60  sleep	malagu, adi //
+61 die	Cayu, sae //
+62  kill	kollu //
+63  swim	isu, niCalu //
+64  fly	haru, pare //
+65  walk	nade, ogu //
+66 come	baru, aivu //
+67  lie	malagisu, nili matu //
+68  sit	kulitu, kutullu //
+69  stand	nillu //
+70  give	kodu, ikku //
+71  say	helu, annu //
+72 sun	%surya, ottu // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+73  moon	%Candra, tingua // Indic loan (Sreekantaiza 1956)
+74 star	%naksatra, minu // loan from Sanskrit (Sjoberg and Sjoberg 1956)
+75 water	niru, gangi //
+76  rain	male, me //
+77 stone	kallu, kindikal //
+78  sand	usubu
+79  earth	mannu, nela //
+80  cloud	megh~a, asuma //
+81  smoke	hoge, uri //
+82 fire	benki, kiCCu //
+83  ash	%bodi, rakse // Indic loan (Sreekantaiza 1956)
+84  burn	sudu, huri //
+85 path	marga, oni //
+86 mountain	betta, male //
+87  red	kem, keng //
+88  green	has, paCCe //
+89  yellow	%haladi, ariCina // Indic loan (Sreekantaiza 1956)
+90  white	bele, belle //
+91  black	karu, kakku //
+92 night	%ratri, iru //  loan from Sanskrit (Sjoberg and Sjoberg 1956)
+93  hot	beccanna, atta //
+94  cold	tandi, tani //
+95 full	tumba, nere //
+96 new	hosa, osa //
+97  good	olle, se //
+98  round	batta, uruttu //
+99  dry	battida, katte //
+100 name	hesaru, peru //

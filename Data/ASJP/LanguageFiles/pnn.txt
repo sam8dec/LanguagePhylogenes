@@ -1,0 +1,42 @@
+PANGASINAN{An.NORTHERN_PHILIPPINES|Austronesian,Malayo-Polynesian,Philippine,NorthernLuzon,Meso-Cordilleran,South-CentralCordilleran,SouthernCordilleran,WestSouthernCordilleran@Austronesian,NuclearAustronesian,Malayo-Polynesian,NorthernLuzon,Meso-Cordilleran,South-CentralCordilleran,SouthernCordilleran,WestSouthernCordilleran}
+ 1   15.92  120.30     1162140   pnn   pag
+1 I	siak //
+2 you	sika //
+3 we	sikami //
+11 one	sakey //
+12 two	duara //
+18 person	to //
+19 fish	sira //
+21 dog	aso //
+22 louse	kuto //
+23 tree	XXX //
+25 leaf	buloN //
+28 skin	balat //
+30 blood	dala //
+31 bone	pokel //
+34 horn	XXX //
+39 ear	layag //
+40 eye	mata //
+41 nose	eleN //
+43 tooth	Nipen //
+44 tongue	dila //
+47 knee	XXX //
+48 hand	lima //
+51 breast	suso //
+53 liver	altey //
+54 drink	inom //
+57 see	neNneN //
+58 hear	deNuel //
+61 die	unpatey, inatey //
+66 come	laka, unla //
+72 sun	XXX //
+74 star	biteuen //
+75 water	danom //
+77 stone	bato //
+82 fire	po7ol //
+85 path	XXX //
+86 mountain	XXX //
+92 night	labi //
+95 full	XXX //
+96 new	balo //
+100 name	Naran //

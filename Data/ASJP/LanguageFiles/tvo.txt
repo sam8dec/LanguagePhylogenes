@@ -1,0 +1,42 @@
+TATAR{Alt.TURKIC|Altaic,Turkic,Western,Uralian@Turkic,CommonTurkic,Oghuz-Kipchak-Uyghur,Oghuz,Kipchak,NorthKipchak}
+ 1   56.00   49.50     5407550   tmi   tat
+1 I	min //
+2 you	sin //
+3 we	bEz //
+11 one	bEr //
+12 two	ikE //
+18 person	kESE, adEm //
+19 fish	balok //
+21 dog	Et //
+22 louse	XXX //
+23 tree	XXX //
+25 leaf	yaprak //
+28 skin	tirE, kin //
+30 blood	kan //
+31 bone	seyak //
+34 horn	megEz //
+39 ear	kolak //
+40 eye	kiz //
+41 nose	boron //
+43 tooth	tES //
+44 tongue	tEl //
+47 knee	tEz //
+48 hand	kul //
+51 breast	XXX //
+53 liver	bawor //
+54 drink	EC //
+57 see	kir //
+58 hear	toNl //
+61 die	il //
+66 come	kil //
+72 sun	koyaS //
+74 star	yoldoz //
+75 water	su //
+77 stone	taS //
+82 fire	ut //
+85 path	yul //
+86 mountain	XXX //
+92 night	ten //
+95 full	tulo, yuan //
+96 new	yaNa //
+100 name	XXX //

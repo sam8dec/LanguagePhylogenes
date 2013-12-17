@@ -1,0 +1,42 @@
+ICELANDIC{IE.GERMANIC|Indo-European,Germanic,North,WestScandinavian@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian,Icelandic-Faroese}
+ 1   65.00  -17.00      243840   ice   isl
+1 I	yEx //
+2 you	8u //
+3 we	vi8 //
+11 one	eitn~ //
+12 two	th~veir //
+18 person	manEsTa //
+19 fish	fiskir //
+21 dog	hintir //
+22 louse	lus //
+23 tree	th~ry~E //
+25 leaf	pla8 //
+28 skin	hu8, sTin //
+30 blood	plou8 //
+31 bone	pein //
+34 horn	hortn~ //
+39 ear	eira //
+40 eye	eixa //
+41 nose	nev //
+43 tooth	th~En //
+44 tongue	th~uNka //
+47 knee	hny~E //
+48 hand	hEnt //
+51 breast	pry~oust //
+53 liver	livir //
+54 drink	trEka //
+57 see	sy~au //
+58 hear	heira //
+61 die	teiya //
+66 come	kh~oma //
+72 sun	soul //
+74 star	sty~artn~a //
+75 water	vatn~ //
+77 stone	steitn~ //
+82 fire	Eltir, paul //
+85 path	stixir, kata //
+86 mountain	fy~atl, fEtl //
+92 night	nout //
+95 full	fitlir //
+96 new	nir //
+100 name	navn //

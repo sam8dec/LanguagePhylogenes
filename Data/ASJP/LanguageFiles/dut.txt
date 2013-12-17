@@ -1,0 +1,42 @@
+DUTCH{IE.GERMANIC|Indo-European,Germanic,West,LowSaxon-LowFranconian,LowFranconian@Indo-European,Germanic,NorthwestGermanic,WestGermanic,Franconian,LowFranconian,Macro-Dutch,Middle-ModernDutch,ModernDutch}
+ 1   52.50    6.00    22984690   dbr   nld
+1 I	ik //
+2 you	yEi, y3 //
+3 we	vEi, v3 //
+11 one	en //
+12 two	tve //
+18 person	%pErson, mEns //  loan from Latin
+19 fish	vis //
+21 dog	hont //
+22 louse	l3is //
+23 tree	bom //
+25 leaf	blat //
+28 skin	h3id, vEl //
+30 blood	blut //
+31 bone	ben //
+34 horn	horn //
+39 ear	or //
+40 eye	oX //
+41 nose	nes //
+43 tooth	tant //
+44 tongue	toN //
+47 knee	kni //
+48 hand	hant //
+51 breast	borst //
+53 liver	lev3r //
+54 drink	driNk3n //
+57 see	zin //
+58 hear	hor3n //
+61 die	stErv3n //
+66 come	kom3n //
+72 sun	zon //
+74 star	ster //
+75 water	vat3r //
+77 stone	sten //
+82 fire	vir //
+85 path	pat, vEx //
+86 mountain	bErx //
+92 night	nat //
+95 full	vol //
+96 new	niu //
+100 name	nam //

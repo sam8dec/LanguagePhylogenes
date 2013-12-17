@@ -1,0 +1,42 @@
+UYGHUR{Alt.TURKIC|Altaic,Turkic,Eastern@Turkic,CommonTurkic,Oghuz-Kipchak-Uyghur,Uyghur}
+ 1   40.00   80.00     8791610   uyg   uig
+1 I	XXX //
+2 you	san //
+3 we	biz //
+11 one	bir //
+12 two	iki //
+18 person	%odam // Arabic loan
+19 fish	beliq //
+21 dog	iSt //
+22 louse	piSt //
+23 tree	darax //
+25 leaf	yopurmoq //
+28 skin	tera //
+30 blood	qon //
+31 bone	ustixon //
+34 horn	miNgiz //
+39 ear	quloq //
+40 eye	k3z //
+41 nose	burun //
+43 tooth	CiS //
+44 tongue	XXX //
+47 knee	tiz //
+48 hand	qol //
+51 breast	k3ksa //
+53 liver	bexir //
+54 drink	iCmak //
+57 see	k3rmak //
+58 hear	oNlimoq //
+61 die	8lmak //
+66 come	bormoq, kalmak //
+72 sun	quyoS //
+74 star	Zultus //
+75 water	su //
+77 stone	toS //
+82 fire	ot //
+85 path	yolxz oyoq yol // (3 word phrase as given in dictionary)
+86 mountain	tox //
+92 night	tin //
+95 full	tolxon //
+96 new	yeNi //
+100 name	nom //

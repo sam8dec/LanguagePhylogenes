@@ -1,0 +1,42 @@
+MALTESE{AA.SEMITIC|Afro-Asiatic,Semitic,Central,South,Arabic@Afro-Asiatic,Semitic,WestSemitic,CentralSemitic,Arabian,Arabic,NorthAfricanArabic}
+ 1   35.92   14.42      429000   mlt   mlt
+1 I	yiEnE //
+2 you	inti //
+3 we	aXna //
+11 one	wiEXEt //
+12 two	tnEn //
+18 person	pErsuna //
+19 fish	Xuta //
+21 dog	kElp //
+22 louse	amla //
+23 tree	sijra //
+25 leaf	wEr7a //
+28 skin	jilda, oSra //
+30 blood	dEm //
+31 bone	Xadma //
+34 horn	arn //
+39 ear	widna //
+40 eye	Xan //
+41 nose	imniEXEr //
+43 tooth	sina //
+44 tongue	ilsiEn //
+47 knee	irkoba //
+48 hand	it //
+51 breast	sidEr //
+53 liver	fwiEt //
+54 drink	Sorp //
+57 see	ra //
+58 hear	tisma //
+61 die	tmut //
+66 come	tiji //
+72 sun	SEmS //
+74 star	kEwkba //
+75 water	ilma //
+77 stone	Xajra //
+82 fire	nar //
+85 path	modiya //
+86 mountain	muntany~a //
+92 night	lEl //
+95 full	mimli, smin //
+96 new	jdit //
+100 name	isEm //

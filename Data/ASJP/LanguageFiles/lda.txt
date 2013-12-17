@@ -1,0 +1,42 @@
+LUGANDA{NC.BANTOID|Niger-Congo,Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,Southern,NarrowBantu,Central,J,Nyoro-Ganda(E.15)@Atlantic-Congo,Volta-Congo,Benue-Congo,Bantoid,SouthernBantoid,NarrowBantu,EastBantu,NortheastSavannaBantu,GreatLakesBantu,WestNyanza,NorthNyanza}
+ 1    0.50   32.17     4130000   lda   lug
+1 I	nz~e //
+2 you	mw~e //
+3 we	fe, tu //
+11 one	mu //
+12 two	biri //
+18 person	nt~u //
+19 fish	e5anj~a //
+21 dog	bw~a //
+22 louse	sekere //
+23 tree	ti //
+25 leaf	dagala //
+28 skin	diba, kuta //
+30 blood	sai //
+31 bone	gumb~a //
+34 horn	jemb~e, kond~ere //
+39 ear	tu //
+40 eye	iso, dozo //
+41 nose	5ind~o //
+43 tooth	i5o //
+44 tongue	limi //
+47 knee	vivi //
+48 hand	kono, batu //
+51 breast	fuba //
+53 liver	bumb~a //
+54 drink	5wa //
+57 see	laba, tunula //
+58 hear	wulira //
+61 die	fa, tond~oka //
+66 come	ja //
+72 sun	juba //
+74 star	5e5e, nabaliwo //
+75 water	azi //
+77 stone	jinj~a //
+82 fire	liro //
+85 path	kubo, wend~a //
+86 mountain	sozi //
+92 night	ro //
+95 full	jula, feta //
+96 new	gy~a //
+100 name	i5a //

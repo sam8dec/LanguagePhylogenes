@@ -1,0 +1,42 @@
+BASHKIR{Alt.TURKIC|Altaic,Turkic,Western,Uralian@Turkic,CommonTurkic,Oghuz-Kipchak-Uyghur,Oghuz,Kipchak,NorthKipchak}
+ 1   53.00   58.00     1221340   bsk   bak
+1 I	min //
+2 you	hin //
+3 we	be8 //
+11 one	ber //
+12 two	ike //
+18 person	keSe, %E8Em //  Arabic loan
+19 fish	baluq //
+21 dog	et //
+22 louse	bet //
+23 tree	axas //
+25 leaf	yalpaq //
+28 skin	tire //
+30 blood	qan //
+31 bone	heyEk //
+34 horn	mege8 //
+39 ear	qolaq //
+40 eye	ki8 //
+41 nose	tanau, tanaw //
+43 tooth	teS //
+44 tongue	tel //
+47 knee	tubuq //
+48 hand	qul //
+51 breast	kikrEk //
+53 liver	baur, bawur //
+54 drink	esei //
+57 see	kirei //
+58 hear	iSetei //
+61 die	ilei //
+66 come	kilei //
+72 sun	qoyaS //
+74 star	yondo8 //
+75 water	hu, huw //
+77 stone	taS //
+82 fire	ut //
+85 path	yul //
+86 mountain	tau, taw //
+92 night	ten //
+95 full	tulu //
+96 new	yaNu //
+100 name	isem //

@@ -1,0 +1,42 @@
+TONGAN{An.OCEANIC|Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,CentralPacific,EastFijian-Polynesian,Polynesian,Tongic@Austronesian,NuclearAustronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,CentralPacificlinkage,Tokelau-Fijian,Polynesian,Tongic}
+ 1  -21.17 -175.17      141290   tng   ton
+1 I	ku, kau //
+2 you	koe //
+3 we	ma //
+11 one	taha //
+12 two	XXX //
+18 person	taNata, tokotaha //
+19 fish	ika //
+21 dog	kuli //
+22 louse	kutu //
+23 tree	fu7u akau //
+25 leaf	lau, hulu //
+28 skin	kili //
+30 blood	toto //
+31 bone	hui //
+34 horn	me7atui //
+39 ear	teliNa //
+40 eye	mata //
+41 nose	ihu //
+43 tooth	nifo //
+44 tongue	elelo //
+47 knee	tui //
+48 hand	nima //
+51 breast	fatafata, huhu //
+53 liver	ate //
+54 drink	inu //
+57 see	vakai, a7ahi //
+58 hear	fanoNo //
+61 die	kau pekia, mate //
+66 come	ha7u //
+72 sun	la7a //
+74 star	fetu7u //
+75 water	vai //
+77 stone	maka //
+82 fire	afi, puho //
+85 path	hala //
+86 mountain	mo7uNa //
+92 night	po7uli, po //
+95 full	fonu //
+96 new	fo7ou //
+100 name	hiNoa, fakaiku //

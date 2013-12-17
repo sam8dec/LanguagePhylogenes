@@ -1,0 +1,102 @@
+FIJIAN{An.OCEANIC|Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,CentralPacific,EastFijian-Polynesian,EastFijian@Austronesian,NuclearAustronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,CentralPacificlinkage,Tokelau-Fijian,EastFijian}
+ 1  -17.83  178.00      337320   fij   fij
+1 I	XXX //
+2 you	ko iko //
+3 we	ko kend~a //
+4 this	o koya o Ngo //
+5 that	o Ngori, ko ya //
+6 who	o 8ei //
+7 what	a 8ava //
+8 not	seNa //
+9 all	tau8oko //
+10 many	vuNga, levu //
+11 one	nd~ua //
+12 two	rua //
+13 big	levu //
+14 long	balavu //
+15 small	lailai //
+16 woman	alewa //
+17 man	ataNane //
+18 person	tamata //
+19 fish	ika //
+20 bird	manu //
+21 dog	koli //
+22 louse	kutu //
+23 tree	kau, ka8u //
+24 seed	sore //
+25 leaf	nd~rau //
+26 root	vu, Ngasika //
+27 bark	kuli ni kau //
+28 skin	kuli //
+29 flesh	lewe //
+30 blood	nd~ra //
+31 bone	sw~i //
+32 grease	uro //
+33 egg	yaloka //
+34 horn	kaukamea ni manu manu //
+35 tail	bwi, buku //
+36 feather	lawe //
+37 hair	nd~rau ni ulu //
+38 head	ulu //
+39 ear	nd~aliNa
+40 eye	mata //
+41 nose	u8u //
+42 mouth	Nusu, nd~raka //
+43 tooth	bati //
+44 tongue	yame //
+45 claw	Ngalokana, ai Ngaso //
+46 foot	yava //
+47 knee	nd~ura //
+48 hand	liNa //
+49 belly	kete //
+50 neck	nd~omo //
+51 breasts	sere //
+52 heart	uto //
+53 liver	yate //
+54 drink	wai ni Nunu //
+55 eat	kana //
+56 bite	katia //
+57 see	sara, rai8a //
+58 hear	roNo8a //
+59 know	kila //
+60 sleep	mo8e //
+61 die	mate, bale //
+62 kill	vakamatea //
+63 swim	Ngalo, nuse //
+64 fly	vuka //
+65 walk	salatu //
+66 come	lako mai //
+67 lie	8ori //
+68 sit	tiko //
+69 stand	wavu tu, toka //
+70 give	solia //
+71 say	XXX //
+72 sun	mata ni siNa //
+73 moon	vula //
+74 star	kalo //
+75 water	wai //
+76 rain	XXX //
+77 stone	vatu //
+78 sand	nuku //
+79 earth	Ngele, soso //
+80 cloud	XXX //
+81 smoke	kubou //
+82 fire	bukawaNga //
+83 ash	nd~ravusa //
+84 burn	waNga, Ngawa //
+85 path	salatu //
+86 mountain	ulunivanua, nd~elanivanua //
+87 red	nd~amu //
+88 green	karakarawa //
+89 yellow	XXX //
+90 white	vula, siNasiNau //
+91 black	loaloa //
+92 night	boNi //
+93 hot	kata //
+94 cold	kalikaliwa, liliwa //
+95 full	sinai //
+96 new	mata vou //
+97 good	vinaka //
+98 round	momokiti, moNgimoNgili //
+99 dry	di, ma8a //
+100 name	ya8a //

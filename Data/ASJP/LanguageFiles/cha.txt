@@ -1,0 +1,102 @@
+CHAMORRO{An.CHAMORRO|Austronesian,Malayo-Polynesian,Chamorro@Austronesian,NuclearAustronesian,Malayo-Polynesian}
+ 2   13.45  144.75       94700   cha   cha
+1 I	hu, co7 //
+2 you	un, hamco //
+3 we	hami, hita //
+4 this	ini, %este //  loan from Spanish (SW)
+5 that	enao, cuhi //
+6 who	hai, haZi //
+7 what	ha, hafa //
+8 not	des, muNa //
+9 all	%puru, tiot //  loan from Spanish (SW)
+10 many	bobo, matmo //
+11 one	%unu //  loan from Spanish (SW)
+12 two	%dos //  loan from Spanish (SW)
+13 big	dankolo, penNa //
+14 long	anakko7, lagw~as //
+15 small	cibe7, hagw~i //
+16 woman	palao7an //
+17 man	taotao, lahi //
+18 person	taotao, %petsona //  loan from Spanish (SW)
+19 fish	gw~ihan, katokca7
+20 bird	%paharu // loan from Spanish
+21 dog	galagu //
+22 louse	hutu //
+23 tree	%tronkon hacu, tinaitai //  loan from Spanish (SW)
+24 seed	simica, hutu //
+25 leaf	hagon, %ohas //  loan from Spanish (SW)
+26 root	hale7 //
+27 bark	lassa //
+28 skin	lassas //
+29 flesh	katne, sensen //
+30 blood	haga7 //
+31 bone	tolaN //
+32 grease	%manika, %sebu //  loan from Spanish (SW)
+33 egg	cada7 //
+34 horn	kaNhelon //
+35 tail	dadalak //
+36 feather	pulu //
+37 hair	gapotulu, pulu //
+38 head	%kabesa, amu //  loan from Spanish (SW)
+39 ear	talaNa //
+40 eye	atadok, mata //
+41 nose	gw~i7eN //
+42 mouth	sukos babw~i, pacot //
+43 tooth	akankaN, nifen //
+44 tongue	hula7, %leNgw~a //  loan from Spanish (SW)
+45 claw	papakes //
+46 foot	addeN, %patas //  loan from Spanish (SW)
+47 knee	tommo //
+48 hand	kannai //
+49 belly	%estomagu, tucan //  loan from Spanish (SW)
+50 neck	kw~ecu, agaga //
+51 breasts	susu //
+52 heart	%korason, patnitos //  loan from Spanish (SW)
+53 liver	%higadu, sassa //  loan from Spanish (SW)
+54 drink	gimen //
+55 eat	coco, 5am //
+56 bite	akka7 //
+57 see	keli7e7, diha7 //
+58 hear	huNok //
+59 know	ketuNo, lamon //
+60 sleep	%deskansa, maigo7 //  loan from Spanish (SW)
+61 die	kumematai //
+62 kill	puno7, talonan //
+63 swim	naNu, omak //
+64 fly	gupu //
+65 walk	lahu, mamokat //
+66 come	mamaila7, matto //
+67 lie	asson, fanopok //
+68 sit	matacoN //
+69 stand	tacu, toge //
+70 give	na7i, %presenta // loan from Spanish
+71 say	kesaNan, alok //
+72 sun	atdao //
+73 moon	pulan //
+74 star	%estrecas, puti7on //  loan from Spanish (SW)
+75 water	%agw~a, hanom //  loan from Spanish (SW)
+76 rain	ame7, ucan //
+77 stone	aco7, hali7an //
+78 sand	unai //
+79 earth	tano7 //
+80 cloud	mapagahes //
+81 smoke	asu //
+82 fire	gw~afi, kimason //
+83 ash	otpos //
+84 burn	pakko7, tunu //
+85 path	calan, kaci //
+86 mountain	sabana //
+87 red	agaga7 //
+88 green	betde //
+89 yellow	%amaricu // loan from Spanish
+90 white	a7paka //
+91 black	attiloN //
+92 night	%noces, pw~eNi //  loan from Spanish (SW)
+93 hot	fina7maipe, figan //
+94 cold	fufu, maneNheN //
+95 full	bokka7, bula //
+96 new	%nueba //  loan from Spanish (SW)
+97 good	bibu, %bw~enu //  loan from Spanish (SW)
+98 round	%aridonda, adameloN //  loan from Spanish (SW)
+99 dry	aNglo7, tala7
+100 name	na7an //

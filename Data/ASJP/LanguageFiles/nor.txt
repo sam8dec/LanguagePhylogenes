@@ -1,0 +1,42 @@
+NORWEGIAN_BOKMAAL{IE.GERMANIC|Indo-European,Germanic,North,EastScandinavian,Danish-Swedish,Danish-Bokmal@Indo-European,Germanic,NorthwestGermanic,NorthGermanic,WestScandinavian}
+ 1   61.00    8.00     4741780         nor
+1 I	yEi //
+2 you	d3 //
+3 we	vi //
+11 one	En, Et //
+12 two	tu //
+18 person	mEnesk3 //
+19 fish	fisk //
+21 dog	h3nd //
+22 louse	l3s //
+23 tree	tre //
+25 leaf	blod //
+28 skin	h3d, Sin //
+30 blood	blud //
+31 bone	bEin //
+34 horn	horn, hon //
+39 ear	er3 //
+40 eye	ey3 //
+41 nose	nes3 //
+43 tooth	ton //
+44 tongue	t3N3 //
+47 knee	kne //
+48 hand	hond //
+51 breast	briN3, brist //
+53 liver	lev3r //
+54 drink	drik3 //
+57 see	se //
+58 hear	her3, lit3 //
+61 die	de //
+66 come	kom3 //
+72 sun	sol //
+74 star	sty~Ern3, sCErn3 //
+75 water	von //
+77 stone	stEin //
+82 fire	ild //
+85 path	vEi, sti //
+86 mountain	bErg, fy~El //
+92 night	not //
+95 full	f3l, f3lt //
+96 new	ni //
+100 name	navn //

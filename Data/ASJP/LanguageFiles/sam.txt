@@ -1,0 +1,102 @@
+SAMOAN{An.OCEANIC|Austronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,Central-EasternOceanic,RemoteOceanic,CentralPacific,EastFijian-Polynesian,Polynesian,Nuclear,Samoic-Outlier,Samoan@Austronesian,NuclearAustronesian,Malayo-Polynesian,Central-EasternMalayo-Polynesian,EasternMalayo-Polynesian,Oceanic,CentralPacificlinkage,Tokelau-Fijian,Polynesian,NuclearPolynesian,Ellicean,Samoan-Tokelauan}
+ 1  -13.92 -171.83      364257   sam   smo
+1 I	ita, a7u //
+2 you	oulua, outou //
+3 we	matou, tatou //
+4 this	lenai, lea //
+5 that	lea, lena //
+6 who	po7o ai //
+7 what	o le a //
+8 not	le, le7i //
+9 all	atoa, uma //
+10 many	to7atele, lasi //
+11 one	tasi //
+12 two	lua //
+13 big	tele, lapo7a //
+14 long	umi, loa //
+15 small	la7ititi, lili7i //
+16 woman	fafine //
+17 man	tane, tamaloa //
+18 person	taNata //
+19 fish	i7a //
+20 bird	manu, manulele //
+21 dog	maile, uli //
+22 louse	utu //
+23 tree	la7au //
+24 seed	fatu, fuNafuNamatia //
+25 leaf	lau //
+26 root	a7a //
+27 bark	pa7u //
+28 skin	pa7u //
+29 flesh	a7ano, anoNasi //
+30 blood	toto, pala //
+31 bone	ivi, ponaivi //
+32 grease	Na7o, fa7aNa7o
+33 egg	fua //
+34 horn	nifo, seu //
+35 tail	si7u, i7u //
+36 feather	fulu //
+37 hair	laulu //
+38 head	ulu //
+39 ear	taliNa //
+40 eye	mata, fofoNa //
+41 nose	isu //
+42 mouth	muaNuta //
+43 tooth	nifu, oloa //
+44 tongue	laulaufaiva //
+45 claw	mati7uti7u, maiu7u //
+46 foot	vae, a7ao //
+47 knee	tulivae //
+48 hand	lima, a7ao //
+49 belly	puimanava, laualo //
+50 neck	XXX //
+51 breasts	susu, fata //
+52 heart	fatu //
+53 liver	ate, veve //
+54 drink	inu, taute //
+55 eat	fai7aiNa, tausami //
+56 bite	ati //
+57 see	va7ai, pupula //
+58 hear	fa7aloNo, laNona //
+59 know	iloa, silafia //
+60 sleep	moe, tofaNa //
+61 die	oti, malaia //
+62 kill	fasi //
+63 swim	a7au, fe7ausi //
+64 fly	lele, fiti //
+65 walk	savali //
+66 come	sau, mai //
+67 lie	ta7oto, ta7atia //
+68 sit	nofo, saofa7i //
+69 stand	tu, fa7atu //
+70 give	aumai, avatu //
+71 say	fai atu, tautala //
+72 sun	la //
+73 moon	masina //
+74 star	fetu //
+75 water	suavai, suasami //
+76 rain	timuNa //
+77 stone	ma7a //
+78 sand	one //
+79 earth	ele, pala //
+80 cloud	XXX //
+81 smoke	asu, ausa //
+82 fire	afi, mu //
+83 ash	lefu //
+84 burn	mu, tafu //
+85 path	ala, auala //
+86 mountain	mauNa //
+87 red	mumu //
+88 green	lanumeamata //
+89 yellow	sama //
+90 white	pa7e //
+91 black	uli //
+92 night	po //
+93 hot	vevela //
+94 cold	malulu //
+95 full	tumu //
+96 new	fou //
+97 good	lelei //
+98 round	lapotopoto, fa7ata7amilo //
+99 dry	maNo, matutu //
+100 name	iNoa, suafa //

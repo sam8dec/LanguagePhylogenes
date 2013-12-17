@@ -1,0 +1,42 @@
+CATALAN{IE.ROMANCE|Indo-European,Italic,Romance,Italo-Western,Western,Gallo-Iberian,Ibero-Romance,EastIberian@Indo-European,Italic,Latino-Faliscan,Romance,Italo-WesternRomance,WesternRomance,ShiftedWesternRomance,SouthwesternShiftedRomance}
+ 1   41.75    2.00     7220420   ctl   cat
+1 I	Zo //
+2 you	tu //
+3 we	nuzaltr3s //
+11 one	un //
+12 two	dos //
+18 person	p3rson3 //  loan from Etruskan via Latin?
+19 fish	peS //
+21 dog	gos, k3 //
+22 louse	poL //
+23 tree	abr3 //
+25 leaf	fuL3 //
+28 skin	peL //
+30 blood	saN //
+31 bone	os //
+34 horn	korn, ba53 //
+39 ear	urEL3 //
+40 eye	uL //
+41 nose	nas //
+43 tooth	den //
+44 tongue	LeNgw~3 //
+47 knee	j3noL //
+48 hand	ma //
+51 breast	pit //
+53 liver	fej3 //
+54 drink	bEur3 //
+57 see	bEur3 //
+58 hear	s3nti //
+61 die	muri //
+66 come	b3ni
+72 sun	sol //
+74 star	3streL3 //
+75 water	aixw~3 //
+77 stone	pe8r3 //
+82 fire	fok //
+85 path	k3mi //
+86 mountain	mon //
+92 night	nit //
+95 full	plE //
+96 new	nou //
+100 name	nom //

@@ -1,0 +1,42 @@
+HAKKA{ST.CHINESE|Sino-Tibetan,Chinese@Sino-Tibetan,Sinitic,SouthChinese}
+ 1   25.00  116.00    30082810   hak   hak
+1 I	Nai //
+2 you	Ni //
+3 we	Naiteu //
+11 one	yit //
+12 two	ly~oN, Ni //
+18 person	wui, 5in //
+19 fish	N //
+21 dog	keu //
+22 louse	sitma //
+23 tree	Su //
+25 leaf	yap //
+28 skin	ph~i //
+30 blood	hy~et //
+31 bone	kw~ut, kw~utth~eu //
+34 horn	XXX //
+39 ear	Nito, NikuN //
+40 eye	Nan //
+41 nose	ph~ikuN //
+43 tooth	Na, NaCh~i //
+44 tongue	Setma, Setth~eu //
+47 knee	ch~itth~eu //
+48 hand	Su //
+51 breast	nen, hy~uNkak //
+53 liver	kon //
+54 drink	yim //
+57 see	kh~on, kh~ontau //
+58 hear	th~aN, th~aNtau //
+61 die	si, simoN //
+66 come	loi //
+72 sun	5itth~eu //
+74 star	sin //
+75 water	Sui //
+77 stone	Sak //
+82 fire	fo //
+85 path	lu //
+86 mountain	san, ly~aNkoN //
+92 night	puSinth~eu //
+95 full	man //
+96 new	sin //
+100 name	my~aN //

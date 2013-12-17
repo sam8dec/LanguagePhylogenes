@@ -1,0 +1,42 @@
+NAHUATL_ACATLAN{UA.AZTECAN|Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,CoreNahua,Nahuatl@Uto-Aztecan,SouthernUto-Aztecan,Corachol-Aztecan,Aztec,EasternNahuatl}
+ 1   17.67  -99.17      150000   nhx   ngu
+1 I	nawa7 //
+2 you	tawa7 //
+3 we	XXX //
+11 one	XXX //
+12 two	XXX //
+18 person	Laxa //
+19 fish	miC //
+21 dog	CiCi7, kw~in //
+22 louse	atin //
+23 tree	ko //
+25 leaf	Si //
+28 skin	nakayo7 //
+30 blood	es, sio7 //
+31 bone	mite7 //
+34 horn	kw~ako //
+39 ear	nakas //
+40 eye	iStololo //
+41 nose	yakacol //
+43 tooth	Lan //
+44 tongue	nepil //
+47 knee	tepon //
+48 hand	ma //
+51 breast	CiCiwal //
+53 liver	kw~iLaSkol //
+54 drink	Skone7 //
+57 see	XXX //
+58 hear	XXX //
+61 die	XXX //
+66 come	XXX //
+72 sun	tonancin //
+74 star	siLal //
+75 water	a //
+77 stone	XXX //
+82 fire	LiSoS //
+85 path	o //
+86 mountain	tepe //
+92 night	XXX //
+95 full	XXX //
+96 new	yankw~ikh~ //
+100 name	XXX //

@@ -1,0 +1,102 @@
+KOREAN{Kor.KOREAN|Languageisolate5@Korean}
+ 3   37.50  128.00    66418320   kor   kor
+1 I	na //
+2 you	taNsin //
+3 we	uri //
+4 this	igot //
+5 that	kugot //
+6 who	nuga //
+7 what	oton, mu //
+8 not	ani //
+9 all	modun, Conbu //
+10 many	manun //
+11 one	han //
+12 two	tul //
+13 big	kun //
+14 long	kin //
+15 small	Cakun //
+16 woman	yoja //
+17 man	namja //
+18 person	saram //
+19 fish	mul kogi //
+20 bird	sE //
+21 dog	kE //
+22 louse	i //
+23 tree	namu //
+24 seed	ssi //
+25 leaf	iph~ //
+26 root	buri //
+27 bark	namu gopjil //
+28 skin	gopjil //
+29 flesh	kogi //
+30 blood	pi //
+31 bone	by~o //
+32 grease	kirum //
+33 egg	al //
+34 horn	bul //
+35 tail	gori //
+36 feather	kit //
+37 hair	moritol //
+38 head	mori //
+39 ear	kw~i //
+40 eye	nun //
+41 nose	ko //
+42 mouth	ip //
+43 tooth	i //
+44 tongue	hy~o //
+45 claw	paltop //
+46 foot	pal //
+47 knee	murup //
+48 hand	son //
+49 belly	XXX //
+50 neck	mok //
+51 breasts	kasum, Cot //
+52 heart	simjang //
+53 liver	kan //
+54 drink	masi //
+55 eat	mok //
+56 bite	mul //
+57 see	po //
+58 hear	tut //
+59 know	al //
+60 sleep	Ca //
+61 die	Cuk //
+62 kill	Cuki //
+63 swim	heom //
+64 fly	nal //
+65 walk	koro, ka //
+66 come	oda //
+67 lie	kojitmalul ha //
+68 sit	ant //
+69 stand	so //
+70 give	Cu //
+71 say	mal ha //
+72 sun	hE //
+73 moon	tal //
+74 star	py~ol //
+75 water	mul //
+76 rain	pi //
+77 stone	tol //
+78 sand	morai //
+79 earth	Cigu //
+80 cloud	kurun //
+81 smoke	yongi //
+82 fire	pul //
+83 ash	CE //
+84 burn	tEu, pulput //
+85 path	kil //
+86 mountain	san //
+87 red	pulkun //
+88 green	Corok sEk //
+89 yellow	nurun //
+90 white	huin //
+91 black	komun //
+92 night	pam //
+93 hot	dugoun //
+94 cold	Can //
+95 full	Can //
+96 new	sEroun //
+97 good	Cohun //
+98 round	tuNgun //
+99 dry	marun //
+100 name	irum //

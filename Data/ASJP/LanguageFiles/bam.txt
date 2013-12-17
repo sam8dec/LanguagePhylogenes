@@ -1,0 +1,102 @@
+BAMBARA{NC.WESTERN_MANDE|Niger-Congo,Mande,Western,Central-Southwestern,Central,Manding-Jogo,Manding-Vai,Manding-Mokole,Manding,Manding-East,NortheasternManding,Bamana@Mande,WesternMande,Manding-Kpelle,CentralMande,Manding-Jogo,Manding-Vai,Manding-Mokole,Manding,EastManding}
+ 2   12.50   -7.50     4072040   bam   bam
+1 I	ne //
+2 you	XXX //
+3 we	anw, anelu //
+4 this	nin //
+5 that	XXX //
+6 who	jon //
+7 what	mun //
+8 not	XXX //
+9 all	XXX //
+10 many	ca, caman //
+11 one	kelen //
+12 two	fila //
+13 big	belebele //
+14 long	jan, jamanjan //
+15 small	dogon, ni //
+16 woman	muso //
+17 man	ke, ce //
+18 person	mogo //
+19 fish	jege //
+20 bird	kono //
+21 dog	XXX //
+22 louse	XXX //
+23 tree	jiri, yiri //
+24 seed	kise //
+25 leaf	fura //
+26 root	XXX //
+27 bark	XXX //
+28 skin	wolo, golo //
+29 flesh	bu, sogo //
+30 blood	joli //
+31 bone	kolo //
+32 grease	tolo //
+33 egg	XXX //
+34 horn	XXX //
+35 tail	XXX //
+36 feather	XXX //
+37 hair	si //
+38 head	kunkolo //
+39 ear	XXX //
+40 eye	5e //
+41 nose	nun //
+42 mouth	da //
+43 tooth	5in //
+44 tongue	nen //
+45 claw	soni //
+46 foot	sen //
+47 knee	kunbere //
+48 hand	tege //
+49 belly	XXX //
+50 neck	kan //
+51 breasts	sin //
+52 heart	dusukun, son //
+53 liver	bi5e //
+54 drink	minfen //
+55 eat	dun, dumo //
+56 bite	XXX //
+57 see	ye //
+58 hear	XXX //
+59 know	don //
+60 sleep	sunogo //
+61 die	sa, fatu //
+62 kill	faga //
+63 swim	XXX //
+64 fly	pan //
+65 walk	yala //
+66 come	na //
+67 lie	da //
+68 sit	sigi //
+69 stand	jo //
+70 give	ka ki ma, ka ni ma //
+71 say	fo, ko //
+72 sun	tile //
+73 moon	kalo //
+74 star	dolo //
+75 water	ji //
+76 rain	sanji //
+77 stone	XXX //
+78 sand	XXX //
+79 earth	XXX //
+80 cloud	sanfin //
+81 smoke	XXX //
+82 fire	tasuma //
+83 ash	bugurinj~e //
+84 burn	jeni //
+85 path	sira //
+86 mountain	nt~ugun //
+87 red	bilen //
+88 green	geren //
+89 yellow	XXX //
+90 white	je, jeman //
+91 black	fin //
+92 night	su //
+93 hot	gan //
+94 cold	nene, suman //
+95 full	XXX //
+96 new	kura //
+97 good	di, 5i //
+98 round	XXX //
+99 dry	ja, koskos //
+100 name	togo, jamu //

@@ -1,0 +1,102 @@
+LITHUANIAN{IE.BALTIC|Indo-European,Baltic,Eastern@Indo-European,Balto-Slavic,EasternBaltic}
+ 1   55.00   24.00     3130970   lit   lit
+1 I	aS //
+2 you	yus, tu //
+3 we	mes //
+4 this	Sitas //
+5 that	anas, tas //
+6 who	kas, kuris //
+7 what	kas //
+8 not	ne //
+9 all	visas, visi //
+10 many	daugelis //
+11 one	vienas //
+12 two	du, div //
+13 big	didelis, platus //
+14 long	ilgas, letas //
+15 small	maZas, maZutis //
+16 woman	moteris //
+17 man	Zmogus //
+18 person	asmuo, Zmogus //
+19 fish	Zuvis //
+20 bird	paukStis //
+21 dog	Suo //
+22 louse	utele //
+23 tree	medis //
+24 seed	sekla, grudas //
+25 leaf	lapas //
+26 root	Saknis //
+27 bark	Zieve //
+28 skin	oda, kailis //
+29 flesh	mesa, kunas //
+30 blood	krauyas, giminy~ste //
+31 bone	kaulas //
+32 grease	taukai, riebalai //
+33 egg	kiauSinis //
+34 horn	ragas //
+35 tail	uodega, eile //
+36 feather	plunksna //
+37 hair	palukas //
+38 head	galva //
+39 ear	ausis //
+40 eye	akis //
+41 nose	nosis, nuyautimas //
+42 mouth	burna //
+43 tooth	dantis //
+44 tongue	lieZuvis //
+45 claw	nagas //
+46 foot	koya, peda //
+47 knee	kelis //
+48 hand	ranka //
+49 belly	pilvas, skramdis //
+50 neck	kaklas //
+51 breasts	krutine //
+52 heart	Sirdis //
+53 liver	kepeny~s //
+54 drink	ger, girtau //
+55 eat	valgy~, iSes //
+56 bite	kas, gel //
+57 see	maty~, Ziure //
+58 hear	girde, iSklausy~ti //
+59 know	Zino, paZin //
+60 sleep	miegas //
+61 die	mir //
+62 kill	uZmuS, nuZudy~ //
+63 swim	plaukio //
+64 fly	skris, pralek //
+65 walk	ei, vaikSCio //
+66 come	atei, atvy~k //
+67 lie	gule, bu //
+68 sit	sede, posedZiau //
+69 stand	stove, atsisto //
+70 give	duo, dovano //
+71 say	nuomone, Zodis //
+72 sun	saule //
+73 moon	menulis //
+74 star	ZvaigZde, Sviesuly~s //
+75 water	vanduo //
+76 rain	lietus //
+77 stone	akmuo //
+78 sand	smely~s //
+79 earth	Zeme //
+80 cloud	debesy~s //
+81 smoke	dumai //
+82 fire	ugnis, liepsna //
+83 ash	pelenai //
+84 burn	deg //
+85 path	takas, kelelis //
+86 mountain	kalnas //
+87 red	raudonas, paraudes //
+88 green	Zalias, nesubrendes //
+89 yellow	geltonas //
+90 white	baltas //
+91 black	yuodas, tamsus //
+92 night	naktis //
+93 hot	karStas //
+94 cold	Saltas, abeyingas //
+95 full	pilnas, visas //
+96 new	nauyas, SvieZias //
+97 good	geras, malonus //
+98 round	apskritas, apvalus //
+99 dry	sausas //
+100 name	vardas //
